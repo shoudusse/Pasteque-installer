@@ -1,0 +1,9 @@
+---
+- hosts: all
+  become: true
+  roles:
+    - common
+    - williamyeh.oracle-java
+    - pasteque
+  vars:
+    java_version: 8

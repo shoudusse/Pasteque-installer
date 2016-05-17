@@ -1,0 +1,10 @@
+- name: Create VirtualHost ({{host}})
+  template: src={{item}} dest=/etc/apache2/sites-available/{{host}}
+  first_available_file:
+    - vhost.{{host}}.j2
+    - vhost.j2
+
+- name: Enable VirtualHost ({{host}})
+  debian_apache2: option=site name={{host}} state=enabled
+  notify:
+    - Restart Apache2

@@ -1,0 +1,61 @@
+---
+- name: Update apt-cache
+  apt: update_cache=yes
+
+- name: Upgrade all packages
+  apt: upgrade=dist
+
+- name: Install LAMP packages
+  apt: pkg={{item}} state=present
+  with_items:
+    - nginx
+    - php5
+    - php5-mysql
+    - php5-memcache
+    - php5-intl
+    - php5-gd
+    - php5-fpm
+    - mariadb-server
+    - mariadb-client
+    - mariadb-common
+
+- name: Download Pasteque Server
+  get_url: url={{ pasteque_src_url }} dest=/tmp
+
+- name: Unarchive Pasteque Server
+  shell: tar -xzf /tmp/{{ pasteque_archive }} --directory {{ www_dir }} # Not using unarchive module because of an ansible bug with become
+
+- name: Remove old directory
+  shell: rm -rf {{ pasteque_dir }}
+
+- name: Rename directory
+  shell: mv {{ www_dir }}/pasteque-server-6.0.4 {{ pasteque_dir }}
+
+- name: Create VirtualHost (pasteque)
+  template: src=vhost.j2 dest={{ apache_conf_path }}/sites-available/{{ pasteque_host }}.conf
+
+- name: Add vhost symlink in sites-enabled.
+  file:
+    src: "{{ apache_conf_path }}/sites-available/{{ pasteque_host }}.conf"
+    dest: "{{ apache_conf_path }}/sites-enabled/{{ pasteque_host }}.conf"
+    state: link
+  notify: Restart Apache2
+
+- name: Display URL
+  debug: msg=Pasteque URL is http://{{ pasteque_host }} with {{ pasteque_host }} {{ ansible_eth0["ipv4"]["address"] }}
+
+- name: Create phpinfo
+  template: src=phpinfo.php.j2 dest={{ pasteque_dir }}/phpinfo.php
+
+- name: Copy config file
+  shell: cp {{ pasteque_dir }}/config-sample.php {{ pasteque_dir }}/config.php
+
+- name: Copy modules config file
+  template: src=core-modules/modules/static/config.php.j2 dest={{ pasteque_dir }}/core_modules/modules/static/config.php
+
+- name: Copy database config file
+  template: src=core-modules/database/static/config.php.j2 dest={{ pasteque_dir }}/core_modules/database/static/config.php
+
+- name: Enable apache2 UTF8 configuration
+  lineinfile: dest=/etc/apache2/conf-available/charset.conf regexp="^# AddDefaultCharset" line="AddDefaultCharset UTF-8"
+  notify: Restart Apache2

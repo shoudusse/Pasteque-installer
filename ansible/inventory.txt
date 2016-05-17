@@ -1,0 +1,1 @@
+pasteque-server ansible_ssh_host=10.27.0.190
