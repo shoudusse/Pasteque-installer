@@ -1,2 +1,2 @@
-- name: Restart Apache2
-  service: name=apache2 state=reloaded
+- name: Restart Nginx
+  service: name=nginx state=reloaded

@@ -32,14 +32,14 @@
   shell: mv {{ www_dir }}/pasteque-server-6.0.4 {{ pasteque_dir }}
 
 - name: Create VirtualHost (pasteque)
-  template: src=vhost.j2 dest={{ apache_conf_path }}/sites-available/{{ pasteque_host }}.conf
+  template: src=vhost.j2 dest={{ nginx_conf_path }}/sites-available/{{ pasteque_host }}.conf
 
 - name: Add vhost symlink in sites-enabled.
   file:
-    src: "{{ apache_conf_path }}/sites-available/{{ pasteque_host }}.conf"
-    dest: "{{ apache_conf_path }}/sites-enabled/{{ pasteque_host }}.conf"
+    src: "{{ nginx_conf_path }}/sites-available/{{ pasteque_host }}.conf"
+    dest: "{{ nginx_conf_path }}/sites-enabled/{{ pasteque_host }}.conf"
     state: link
-  notify: Restart Apache2
+  notify: Restart Nginx
 
 - name: Display URL
   debug: msg=Pasteque URL is http://{{ pasteque_host }} with {{ pasteque_host }} {{ ansible_eth0["ipv4"]["address"] }}
@@ -55,7 +55,3 @@
 
 - name: Copy database config file
   template: src=core-modules/database/static/config.php.j2 dest={{ pasteque_dir }}/core_modules/database/static/config.php
-
-- name: Enable apache2 UTF8 configuration
-  lineinfile: dest=/etc/apache2/conf-available/charset.conf regexp="^# AddDefaultCharset" line="AddDefaultCharset UTF-8"
-  notify: Restart Apache2

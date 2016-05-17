@@ -4,4 +4,4 @@ pasteque_src_url: http://downloads.pasteque.coop/server/{{ pasteque_archive }}
 www_dir: /var/www
 pasteque_host: pasteque.escale-biere.com
 pasteque_dir: "{{ www_dir }}/{{ pasteque_host }}"
-apache_conf_path: /etc/apache2
+nginx_conf_path: /etc/nginx

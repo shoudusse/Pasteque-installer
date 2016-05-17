@@ -1,4 +1,18 @@
-<VirtualHost *:80>
-    ServerName {{ pasteque_host }}
-    DocumentRoot /var/www/{{ pasteque_host }}
-</VirtualHost>
+server {
+        listen 80;
+
+        root {{ pasteque_dir }};
+        index.php;
+
+        server_name {{ pasteque_host }};
+
+        location / {
+                try_files $uri $uri/ =404;
+        }
+
+location ~ \.php$ {
+                fastcgi_split_path_info ^(.+\.php)(/.+)$;
+                fastcgi_pass unix:/var/run/php5-fpm.sock;
+                fastcgi_index index.php;
+                include fastcgi_params;
+        }
