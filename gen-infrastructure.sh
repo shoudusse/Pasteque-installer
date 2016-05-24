@@ -4,6 +4,9 @@ echo "===> Launching containers"
 lxc launch ubuntu:14.04 pasteque-web
 lxc launch ubuntu:14.04 pasteque-db
 
+echo "===> Waiting for containers finished to start"
+sleep 10
+
 echo "===> Pushing public key"
 lxc file push /home/syh/.ssh/id_rsa.pub pasteque-web/home/ubuntu/.ssh/authorized_keys
 lxc file push /home/syh/.ssh/id_rsa.pub pasteque-db/home/ubuntu/.ssh/authorized_keys
@@ -25,6 +28,6 @@ EOF
 
 cat << EOF
 ===> You can now provision servers with:
-===> cd ansible
-===> ansible-playbook -i inventory.txt playbook.yml
+===> ssh ubuntu@${pasteque_db_ip} date && ssh ubuntu@${pasteque_web_ip}
+===> cd ansible && ansible-playbook -i inventory.txt init-pasteque.yml
 EOF

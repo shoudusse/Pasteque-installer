@@ -10,8 +10,16 @@
   lineinfile: dest=/etc/mysql/my.cnf regexp="^bind-address" line="bind-address            = 0.0.0.0"
   notify: Restart MariaDB
 
+- name: Find out databases already created
+  command: >
+    /usr/bin/mysql
+    -e "SHOW DATABASES;"
+  register: databases
+
 - name: Copy database init script
   template: src=init-mysql.sql dest=/tmp
+  when: databases.stdout.find('pasteque') == -1
 
 - name: Execute database init script
   shell: mysql < /tmp/init-mysql.sql
+  when: databases.stdout.find('pasteque') == -1
