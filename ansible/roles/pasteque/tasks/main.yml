@@ -1,11 +1,5 @@
 ---
-- name: Update apt-cache
-  apt: update_cache=yes
-
-- name: Upgrade all packages
-  apt: upgrade=dist
-
-- name: Install LAMP packages
+- name: Install Nginx
   apt: pkg={{item}} state=present
   with_items:
     - nginx
@@ -18,6 +12,9 @@
     - mariadb-server
     - mariadb-client
     - mariadb-common
+
+- name: Create docroot
+  file: path={{ www_dir }} state=directory
 
 - name: Download Pasteque Server
   get_url: url={{ pasteque_src_url }} dest=/tmp
@@ -33,6 +30,10 @@
 
 - name: Create VirtualHost (pasteque)
   template: src=vhost.j2 dest={{ nginx_conf_path }}/sites-available/{{ pasteque_host }}.conf
+  notify: Restart Nginx
+
+- name: Disable ipv6 listening
+  lineinfile: dest=/etc/nginx/sites-available/default regexp="^.+ipv6only=on" state=absent
 
 - name: Add vhost symlink in sites-enabled.
   file:
@@ -53,5 +54,12 @@
 - name: Copy modules config file
   template: src=core-modules/modules/static/config.php.j2 dest={{ pasteque_dir }}/core_modules/modules/static/config.php
 
+- name: debug
+  debug: var=hostvars['pasteque-db']['ansible_eth0']['ipv4']['address']
+  tags: [debug]
+
 - name: Copy database config file
   template: src=core-modules/database/static/config.php.j2 dest={{ pasteque_dir }}/core_modules/database/static/config.php
+
+- name: Fill hosts file
+  local_action: lineinfile dest=/etc/hosts regexp="{{ pasteque_host }}" line="{{ ansible_eth0.ipv4.address }} {{ pasteque_host }}"

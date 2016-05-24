@@ -1,3 +1,10 @@
+---
+- name: Update apt-cache
+  apt: update_cache=yes
+  
+- name: Upgrade all packages
+  apt: upgrade=dist
+    
 - name: Install ntp
   apt: name=ntp state=present
   tags: ntp
@@ -10,3 +17,10 @@
 - name: Start the ntp service
   service: name=ntp state=started enabled=yes
   tags: ntp
+
+- name: Fill hosts file
+  local_action: lineinfile dest=/etc/hosts regexp="{{ ansible_hostname }}" line="{{ ansible_eth0.ipv4.address }} {{ ansible_hostname }}"
+
+- name: debug
+  debug: var=ansible_hostname
+  

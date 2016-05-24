@@ -21,7 +21,7 @@
 namespace StaticDB;
 
 $config['type'] = "mysql";
-$config['host'] = "localhost";
+$config['host'] = "{{ hostvars['pasteque-db']['ansible_eth0']['ipv4']['address'] }}";
 $config['port'] = 3306;
 $config['name'] = "pasteque";
 $config['user'] = "pasteque";

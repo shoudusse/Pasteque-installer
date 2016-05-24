@@ -3,7 +3,13 @@
   become: true
   roles:
     - common
-    - williamyeh.oracle-java
+
+- hosts: web
+  become: true
+  roles:
     - pasteque
-  vars:
-    java_version: 8
+
+- hosts: database
+  become: true
+  roles:
+    - mariadb
