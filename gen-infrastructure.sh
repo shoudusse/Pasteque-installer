@@ -28,6 +28,6 @@ EOF
 
 cat << EOF
 ===> You can now provision servers with:
-===> ssh ubuntu@${pasteque_db_ip} date && ssh ubuntu@${pasteque_web_ip}
+===> ssh ubuntu@${pasteque_db_ip} date && ssh ubuntu@${pasteque_web_ip} date
 ===> cd ansible && ansible-playbook -i inventory.txt init-pasteque.yml
 EOF
