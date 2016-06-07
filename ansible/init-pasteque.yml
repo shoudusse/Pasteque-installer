@@ -16,6 +16,6 @@
 
 - hosts: web
   become: true
-  tasks: 
+  tasks:
     - name: Configure local haproxy
       local_action: template src=haproxy.cfg.j2 dest=/etc/haproxy/haproxy.cfg
