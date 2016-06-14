@@ -1,5 +1,0 @@
-[web]
-pasteque-web ansible_host=10.161.136.171 ansible_user=ubuntu ansible_ssh_port=22
-
-[database]
-pasteque-db ansible_host=10.161.136.197 ansible_user=ubuntu ansible_ssh_port=22

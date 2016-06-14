@@ -1,10 +1,10 @@
 ---
 - name: Update apt-cache
   apt: update_cache=yes
-  
+
 - name: Upgrade all packages
   apt: upgrade=dist
-    
+
 - name: Install ntp
   apt: name=ntp state=present
   tags: ntp
@@ -21,6 +21,17 @@
 - name: Fill hosts file
   local_action: lineinfile dest=/etc/hosts regexp="{{ ansible_hostname }}" line="{{ ansible_eth0.ipv4.address }} {{ ansible_hostname }}"
 
+- name: Set timezone variables
+  copy: content='Europe/Paris'
+        dest=/etc/timezone
+        owner=root
+        group=root
+        mode=0644
+        backup=yes
+  notify:
+    - update timezone
+
+
 - name: debug
   debug: var=ansible_hostname
-  
+
