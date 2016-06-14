@@ -38,6 +38,7 @@
     - init-categories.sql
     - init-users.sql
     - init-products.sql
+    - init-logo.sql
   when: databases.stdout.find('pasteque') >= 1
   tags:
     - provision
@@ -56,6 +57,7 @@
     - init-categories.sql
     - init-users.sql
     - init-products.sql
+    - init-logo.sql
   when: databases.stdout.find('pasteque') >= 1
   tags:
     - provision
