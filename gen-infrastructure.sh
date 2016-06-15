@@ -30,4 +30,6 @@ cat << EOF
 ===> You can now provision servers with:
 ===> ssh ubuntu@${pasteque_db_ip} date && ssh ubuntu@${pasteque_web_ip} date
 ===> cd ansible && ansible-playbook -i inventory.txt init-pasteque.yml
+===> Go to http://pasteque.escale-biere.com and select country to boostrap database
+===> update database by runining the playbook a second time
 EOF
