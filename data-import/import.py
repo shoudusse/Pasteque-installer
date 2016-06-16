@@ -57,19 +57,22 @@ def save_in_db(cnx, brasseur, type, price, quantity, reference, contenance, cate
 	if not product_id:
 		name = u'Bière %s' % reference
 		if contenance == 33:
-			pricesell = 3.70
+			pricesell = 3
 		if contenance == 50:
-			pricesell = 4.50
+			pricesell = 3.75
 		if contenance == 75:
-			pricesell = 7.50
+			pricesell = 6.25
 		product_id = add_product(cnx, reference, name, pricebuy, pricesell, category_id)
 	add_mvt(cnx, product_id, quantity, pricebuy)
 
 def add_product(cnx, reference, name, pricebuy, pricesell, category_id):
 	product_id = id_generator()
 	cur = cnx.cursor(buffered=True)
-	query = "INSERT INTO PRODUCTS VALUES('%s','%s','',NULL,'%s',%f,%f,'%s',NULL,'%s',NULL,NULL,NULL,NULL,0,1,NULL,0,0,0)" % (product_id, reference, name, pricebuy, pricesell, category_id, '004')
+	query = "INSERT INTO PRODUCTS VALUES('%s','%s','',NULL,'%s',%f,%f,'%s',NULL,'%s',NULL,NULL,NULL,NULL,'','',NULL,0,0,0)" % (product_id, reference, name, pricebuy, pricesell, category_id, '004')
 	print query
+	cur.execute(query)
+	cur = cnx.cursor(buffered=True)
+        query = "INSERT INTO `PRODUCTS_CAT` VALUES ('%s',NULL)" % product_id
 	cur.execute(query)
 	cnx.commit()
 	return product_id
