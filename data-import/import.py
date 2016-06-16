@@ -68,7 +68,7 @@ def save_in_db(cnx, brasseur, type, price, quantity, reference, contenance, cate
 def add_product(cnx, reference, name, pricebuy, pricesell, category_id):
 	product_id = id_generator()
 	cur = cnx.cursor(buffered=True)
-	query = "INSERT INTO PRODUCTS VALUES('%s','%s','',NULL,'%s',%f,%f,'%s',NULL,'%s',NULL,NULL,NULL,NULL,0,0,NULL,0,0,0)" % (product_id, reference, name, pricebuy, pricesell, category_id, '004')
+	query = "INSERT INTO PRODUCTS VALUES('%s','%s','',NULL,'%s',%f,%f,'%s',NULL,'%s',NULL,NULL,NULL,NULL,0,1,NULL,0,0,0)" % (product_id, reference, name, pricebuy, pricesell, category_id, '004')
 	print query
 	cur.execute(query)
 	cnx.commit()
