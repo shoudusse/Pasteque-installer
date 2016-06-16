@@ -2786,11 +2786,13 @@
         "type": "Classique",
         "nomDeLaBire": "Blonde bio",
         "contenance": 33,
-        "nbreCartons": 2,
+        "nbreCartons": 1,
         "parCarton": 12,
-        "nbreBouteilles": 24,
+        "nbreBouteilles": 12,
         "pu": 1.65,
-        "montantHt": 39.599999999999994,
+        "montantHt": 19.799999999999997,
+        "commandLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-15T22:00:00.000Z",
         "codification": "SOYE-33-BLON"
     },
     {
@@ -2798,11 +2800,13 @@
         "type": "Classique",
         "nomDeLaBire": "Ambrée bio",
         "contenance": 33,
-        "nbreCartons": 2,
+        "nbreCartons": 1,
         "parCarton": 12,
-        "nbreBouteilles": 24,
+        "nbreBouteilles": 12,
         "pu": 1.65,
-        "montantHt": 39.599999999999994,
+        "montantHt": 19.799999999999997,
+        "commandLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-15T22:00:00.000Z",
         "codification": "SOYE-33-AMBR"
     },
     {
@@ -2810,11 +2814,13 @@
         "type": "Classique",
         "nomDeLaBire": "Rousse bio",
         "contenance": 33,
-        "nbreCartons": 2,
+        "nbreCartons": 1,
         "parCarton": 12,
-        "nbreBouteilles": 24,
+        "nbreBouteilles": 12,
         "pu": 1.65,
-        "montantHt": 39.599999999999994,
+        "montantHt": 19.799999999999997,
+        "commandLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-15T22:00:00.000Z",
         "codification": "SOYE-33-ROUS"
     },
     {
@@ -2822,11 +2828,13 @@
         "type": "Saisonnière",
         "nomDeLaBire": "Blonde bio au miel",
         "contenance": 33,
-        "nbreCartons": 2,
+        "nbreCartons": 1,
         "parCarton": 12,
-        "nbreBouteilles": 24,
+        "nbreBouteilles": 12,
         "pu": 1.75,
-        "montantHt": 42,
+        "montantHt": 21,
+        "commandLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-15T22:00:00.000Z",
         "codification": "SOYE-33-MIEL"
     },
     {
@@ -2834,11 +2842,13 @@
         "type": "Saisonnière",
         "nomDeLaBire": "Ambrée bio à la framboise",
         "contenance": 33,
-        "nbreCartons": 2,
+        "nbreCartons": 1,
         "parCarton": 12,
-        "nbreBouteilles": 24,
+        "nbreBouteilles": 12,
         "pu": 1.75,
-        "montantHt": 42,
+        "montantHt": 21,
+        "commandLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-15T22:00:00.000Z",
         "codification": "SOYE-33-FRAM"
     },
     {
@@ -2851,6 +2861,8 @@
         "nbreBouteilles": 6,
         "pu": 3.25,
         "montantHt": 19.5,
+        "commandLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-15T22:00:00.000Z",
         "codification": "SOYE-75-BLON"
     },
     {
@@ -2863,6 +2875,8 @@
         "nbreBouteilles": 6,
         "pu": 3.25,
         "montantHt": 19.5,
+        "commandLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-15T22:00:00.000Z",
         "codification": "SOYE-75-AMBR"
     },
     {
@@ -2875,6 +2889,8 @@
         "nbreBouteilles": 6,
         "pu": 3.25,
         "montantHt": 19.5,
+        "commandLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-15T22:00:00.000Z",
         "codification": "SOYE-75-ROUS"
     },
     {
@@ -2887,6 +2903,8 @@
         "nbreBouteilles": 6,
         "pu": 3.45,
         "montantHt": 20.700000000000003,
+        "commandLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-15T22:00:00.000Z",
         "codification": "SOYE-75-MIEL"
     },
     {
@@ -2899,6 +2917,8 @@
         "nbreBouteilles": 6,
         "pu": 3.45,
         "montantHt": 20.700000000000003,
+        "commandLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-15T22:00:00.000Z",
         "codification": "SOYE-75-FRAM"
     },
     {
@@ -6838,9 +6858,9 @@
         "montantHt": "montant HT"
     },
     {
-        "nbreCartons": 327,
-        "nbreBouteilles": 2900,
-        "montantHt": 6117.679099999998
+        "nbreCartons": 322,
+        "nbreBouteilles": 2840,
+        "montantHt": 6016.279100000002
     },
     {
         "nomDeLaBire": "général",
@@ -6851,9 +6871,9 @@
     },
     {
         "contenance": 33,
-        "nbreCartons": 140,
-        "nbreBouteilles": 1946,
-        "montantHt": 3003.2959999999994,
+        "nbreCartons": 135,
+        "nbreBouteilles": 1886,
+        "montantHt": 2901.8959999999993,
         "undefined": 1.5652430769230783
     },
     {
@@ -6878,9 +6898,9 @@
     },
     {
         "contenance": "TOTAL",
-        "nbreCartons": 321,
-        "nbreBouteilles": 2896,
-        "montantHt": 5945.905099999998
+        "nbreCartons": 316,
+        "nbreBouteilles": 2836,
+        "montantHt": 5844.5050999999985
     },
     {
         "undefined": 7.58360326530612
