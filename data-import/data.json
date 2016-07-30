@@ -3,6 +3,7 @@
         "brasserie": "Alpine",
         "type": "info",
         "nomDeLaBire": "info",
+        "codification": "ALPI",
         "undefined": "A prendre sur place / paiement 30 jours / 10% réduction"
     },
     {
@@ -11,10 +12,13 @@
         "nomDeLaBire": "Bière des 3 vallées (blonde)",
         "contenance": 33,
         "nbreCartons": 1,
-        "parCarton": 12,
-        "nbreBouteilles": 12,
-        "pu": 1.395,
-        "montantHt": 16.740000000000002
+        "parCarton": 24,
+        "nbreBouteilles": 24,
+        "pu": 1.55,
+        "montantHt": 37.2,
+        "commandLe": "2016-06-13T22:00:00.000Z",
+        "recuLe": "2016-06-13T22:00:00.000Z",
+        "codification": "ALPI-33-3VAL"
     },
     {
         "brasserie": "Alpine",
@@ -22,10 +26,13 @@
         "nomDeLaBire": "Kaline (blonde)",
         "contenance": 33,
         "nbreCartons": 1,
-        "parCarton": 12,
-        "nbreBouteilles": 12,
-        "pu": 1.35,
-        "montantHt": 16.200000000000003
+        "parCarton": 24,
+        "nbreBouteilles": 24,
+        "pu": 1.5,
+        "montantHt": 36,
+        "commandLe": "2016-06-13T22:00:00.000Z",
+        "recuLe": "2016-06-13T22:00:00.000Z",
+        "codification": "ALPI-33-KALI"
     },
     {
         "brasserie": "Alpine",
@@ -33,10 +40,13 @@
         "nomDeLaBire": "Kokine (blanche)",
         "contenance": 33,
         "nbreCartons": 1,
-        "parCarton": 12,
-        "nbreBouteilles": 12,
-        "pu": 1.35,
-        "montantHt": 16.200000000000003
+        "parCarton": 24,
+        "nbreBouteilles": 24,
+        "pu": 1.5,
+        "montantHt": 36,
+        "commandLe": "2016-06-13T22:00:00.000Z",
+        "recuLe": "2016-06-13T22:00:00.000Z",
+        "codification": "ALPI-33-KOKI"
     },
     {
         "brasserie": "Alpine",
@@ -44,21 +54,25 @@
         "nomDeLaBire": "Karamel (rousse)",
         "contenance": 33,
         "nbreCartons": 1,
-        "parCarton": 12,
-        "nbreBouteilles": 12,
-        "pu": 1.35,
-        "montantHt": 16.200000000000003
+        "parCarton": 24,
+        "nbreBouteilles": 24,
+        "pu": 1.5,
+        "montantHt": 36,
+        "commandLe": "2016-06-13T22:00:00.000Z",
+        "recuLe": "2016-06-13T22:00:00.000Z",
+        "codification": "ALPI-33-KARA"
     },
     {
         "brasserie": "Alpine",
         "type": "Classique",
         "nomDeLaBire": "KanaÏ (blonde IPA)",
         "contenance": 33,
-        "nbreCartons": 1,
-        "parCarton": 12,
-        "nbreBouteilles": 12,
-        "pu": 1.35,
-        "montantHt": 16.200000000000003
+        "nbreBouteilles": 0,
+        "pu": 1.5,
+        "montantHt": 0,
+        "commandLe": "2016-06-13T22:00:00.000Z",
+        "recuLe": "2016-06-13T22:00:00.000Z",
+        "codification": "ALPI-33-KANA"
     },
     {
         "brasserie": "Alpine",
@@ -68,8 +82,11 @@
         "nbreCartons": 1,
         "parCarton": 6,
         "nbreBouteilles": 6,
-        "pu": 2.835,
-        "montantHt": 17.009999999999998
+        "pu": 3.15,
+        "montantHt": 18.9,
+        "commandLe": "2016-06-13T22:00:00.000Z",
+        "recuLe": "2016-06-13T22:00:00.000Z",
+        "codification": "ALPI-75-3VAL"
     },
     {
         "brasserie": "Alpine",
@@ -79,8 +96,11 @@
         "nbreCartons": 1,
         "parCarton": 6,
         "nbreBouteilles": 6,
-        "pu": 2.9699999999999998,
-        "montantHt": 17.82
+        "pu": 3,
+        "montantHt": 18,
+        "commandLe": "2016-06-13T22:00:00.000Z",
+        "recuLe": "2016-06-13T22:00:00.000Z",
+        "codification": "ALPI-75-KALI"
     },
     {
         "brasserie": "Alpine",
@@ -90,8 +110,11 @@
         "nbreCartons": 1,
         "parCarton": 6,
         "nbreBouteilles": 6,
-        "pu": 2.9699999999999998,
-        "montantHt": 17.82
+        "pu": 3,
+        "montantHt": 18,
+        "commandLe": "2016-06-13T22:00:00.000Z",
+        "recuLe": "2016-06-13T22:00:00.000Z",
+        "codification": "ALPI-75-KOKI"
     },
     {
         "brasserie": "Alpine",
@@ -101,24 +124,43 @@
         "nbreCartons": 1,
         "parCarton": 6,
         "nbreBouteilles": 6,
-        "pu": 2.9699999999999998,
-        "montantHt": 17.82
+        "pu": 3,
+        "montantHt": 18,
+        "commandLe": "2016-06-13T22:00:00.000Z",
+        "recuLe": "2016-06-13T22:00:00.000Z",
+        "codification": "ALPI-75-KARA"
     },
     {
         "brasserie": "Alpine",
         "type": "Classique",
         "nomDeLaBire": "KanaÏ (blonde IPA)",
         "contenance": 75,
-        "nbreCartons": 1,
-        "parCarton": 6,
-        "nbreBouteilles": 6,
-        "pu": 2.9699999999999998,
-        "montantHt": 17.82
+        "nbreBouteilles": 0,
+        "pu": 3,
+        "montantHt": 0,
+        "commandLe": "2016-06-13T22:00:00.000Z",
+        "recuLe": "2016-06-13T22:00:00.000Z",
+        "codification": "ALPI-75-KANA"
+    },
+    {
+        "brasserie": "Alpine",
+        "type": "Coffret",
+        "nomDeLaBire": "3x33cl B3V + 1 Verre",
+        "contenance": 33,
+        "nbreCartons": 4,
+        "parCarton": 1,
+        "nbreBouteilles": 4,
+        "pu": 9,
+        "montantHt": 36,
+        "commandLe": "2016-06-13T22:00:00.000Z",
+        "recuLe": "2016-06-13T22:00:00.000Z",
+        "codification": "ALPI-33-C3-1V"
     },
     {
         "brasserie": "BBMO et GBB",
         "type": "info",
         "nomDeLaBire": "info",
+        "codification": "BBMO",
         "undefined": "mini franco : 4 cartons (cartons 24 bouteilles)"
     },
     {
@@ -174,6 +216,7 @@
         "brasserie": "BHB (Haut de Buech)",
         "type": "info",
         "nomDeLaBire": "info",
+        "codification": "BHB",
         "undefined": "Livre sur Lyon"
     },
     {
@@ -671,7 +714,8 @@
     {
         "brasserie": "Brasseurs savoyards",
         "type": "info",
-        "nomDeLaBire": "info"
+        "nomDeLaBire": "info",
+        "undefined": "NON"
     },
     {
         "brasserie": "Brasseurs savoyards",
@@ -816,7 +860,8 @@
     {
         "brasserie": "Ceven'Ale",
         "type": "info",
-        "nomDeLaBire": "info"
+        "nomDeLaBire": "info",
+        "codification": "CEVE"
     },
     {
         "brasserie": "Ceven'Ale",
@@ -829,6 +874,7 @@
         "pu": 1.8,
         "montantHt": 21.6,
         "commandLe": "2016-06-03T22:00:00.000Z",
+        "recuLe": "2016-06-14T22:00:00.000Z",
         "codification": "CEVE-33-BLAN"
     },
     {
@@ -853,6 +899,7 @@
         "pu": 1.8,
         "montantHt": 43.2,
         "commandLe": "2016-06-03T22:00:00.000Z",
+        "recuLe": "2016-06-14T22:00:00.000Z",
         "codification": "CEVE-33-MIEL"
     },
     {
@@ -871,7 +918,6 @@
         "type": "Classique",
         "nomDeLaBire": "Printemps",
         "contenance": 33,
-        "nbreCartons": 0,
         "parCarton": 12,
         "nbreBouteilles": 0,
         "pu": 1.8,
@@ -883,7 +929,6 @@
         "type": "Classique",
         "nomDeLaBire": "Hiver",
         "contenance": 33,
-        "nbreCartons": 0,
         "parCarton": 12,
         "nbreBouteilles": 0,
         "pu": 1.8,
@@ -912,6 +957,7 @@
         "pu": 1.9,
         "montantHt": 22.799999999999997,
         "commandLe": "2016-06-03T22:00:00.000Z",
+        "recuLe": "2016-06-14T22:00:00.000Z",
         "codification": "CEVE-33-PINK"
     },
     {
@@ -925,6 +971,7 @@
         "pu": 3.6,
         "montantHt": 21.6,
         "commandLe": "2016-06-03T22:00:00.000Z",
+        "recuLe": "2016-06-14T22:00:00.000Z",
         "codification": "CEVE-75-BLAN"
     },
     {
@@ -949,6 +996,7 @@
         "pu": 3.6,
         "montantHt": 43.2,
         "commandLe": "2016-06-03T22:00:00.000Z",
+        "recuLe": "2016-06-14T22:00:00.000Z",
         "codification": "CEVE-75-MIEL"
     },
     {
@@ -967,7 +1015,6 @@
         "type": "Classique",
         "nomDeLaBire": "Printemps",
         "contenance": 75,
-        "nbreCartons": 0,
         "parCarton": 6,
         "nbreBouteilles": 0,
         "pu": 3.6,
@@ -979,7 +1026,6 @@
         "type": "Classique",
         "nomDeLaBire": "Hiver",
         "contenance": 75,
-        "nbreCartons": 0,
         "parCarton": 6,
         "nbreBouteilles": 0,
         "pu": 3.6,
@@ -1008,6 +1054,7 @@
         "pu": 3.8,
         "montantHt": 22.799999999999997,
         "commandLe": "2016-06-03T22:00:00.000Z",
+        "recuLe": "2016-06-14T22:00:00.000Z",
         "codification": "CEVE-75-PINK"
     },
     {
@@ -1051,6 +1098,7 @@
         "nomDeLaBire": "info",
         "nbreBouteilles": 0,
         "montantHt": 0,
+        "codification": "CIME",
         "undefined": "reglement 30 JFDM"
     },
     {
@@ -1064,6 +1112,7 @@
         "pu": 0.956,
         "montantHt": 22.944,
         "commandLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-14T22:00:00.000Z",
         "codification": "CIME-33-AIGU"
     },
     {
@@ -1077,6 +1126,7 @@
         "pu": 1.121,
         "montantHt": 26.904,
         "commandLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-14T22:00:00.000Z",
         "codification": "CIME-33-CIME"
     },
     {
@@ -1090,6 +1140,7 @@
         "pu": 0.996,
         "montantHt": 23.904,
         "commandLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-14T22:00:00.000Z",
         "codification": "CIME-33-PIST"
     },
     {
@@ -1103,6 +1154,7 @@
         "pu": 1.17,
         "montantHt": 28.08,
         "commandLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-14T22:00:00.000Z",
         "codification": "CIME-33-HORS"
     },
     {
@@ -1116,6 +1168,7 @@
         "pu": 1.21,
         "montantHt": 29.04,
         "commandLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-14T22:00:00.000Z",
         "codification": "CIME-33-YETI"
     },
     {
@@ -1129,6 +1182,7 @@
         "pu": 1.262,
         "montantHt": 30.288,
         "commandLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-14T22:00:00.000Z",
         "codification": "CIME-33-ABOM"
     },
     {
@@ -1142,6 +1196,7 @@
         "pu": 1.044,
         "montantHt": 25.056,
         "commandLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-14T22:00:00.000Z",
         "codification": "CIME-33-GENE"
     },
     {
@@ -1155,6 +1210,7 @@
         "pu": 1.226,
         "montantHt": 29.424,
         "commandLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-14T22:00:00.000Z",
         "codification": "CIME-33-CHAT"
     },
     {
@@ -1168,6 +1224,7 @@
         "pu": 1.044,
         "montantHt": 25.056,
         "commandLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-14T22:00:00.000Z",
         "codification": "CIME-33-FRAM"
     },
     {
@@ -1181,6 +1238,7 @@
         "pu": 1.226,
         "montantHt": 29.424,
         "commandLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-14T22:00:00.000Z",
         "codification": "CIME-33-MIEL"
     },
     {
@@ -1194,6 +1252,7 @@
         "pu": 1.044,
         "montantHt": 25.056,
         "commandLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-14T22:00:00.000Z",
         "codification": "CIME-33-VIOL"
     },
     {
@@ -1207,6 +1266,7 @@
         "pu": 2.376,
         "montantHt": 14.256,
         "commandLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-14T22:00:00.000Z",
         "codification": "CIME-75-AIGU"
     },
     {
@@ -1220,6 +1280,7 @@
         "pu": 2.781,
         "montantHt": 16.686,
         "commandLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-14T22:00:00.000Z",
         "codification": "CIME-75-CIME"
     },
     {
@@ -1233,6 +1294,7 @@
         "pu": 2.411,
         "montantHt": 14.466000000000001,
         "commandLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-14T22:00:00.000Z",
         "codification": "CIME-75-PIST"
     },
     {
@@ -1246,6 +1308,7 @@
         "pu": 3.025,
         "montantHt": 18.15,
         "commandLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-14T22:00:00.000Z",
         "codification": "CIME-75-HORS"
     },
     {
@@ -1259,6 +1322,7 @@
         "pu": 3.244,
         "montantHt": 19.464000000000002,
         "commandLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-14T22:00:00.000Z",
         "codification": "CIME-75-YETI"
     },
     {
@@ -1272,6 +1336,7 @@
         "pu": 3.4,
         "montantHt": 20.4,
         "commandLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-14T22:00:00.000Z",
         "codification": "CIME-75-ABOM"
     },
     {
@@ -1285,6 +1350,7 @@
         "pu": 18.227,
         "montantHt": 72.908,
         "commandLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-14T22:00:00.000Z",
         "codification": "CIME-2L-AIGU"
     },
     {
@@ -1298,12 +1364,14 @@
         "pu": 18.409,
         "montantHt": 73.636,
         "commandLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-14T22:00:00.000Z",
         "codification": "CIME-2L-HORS"
     },
     {
         "brasserie": "Fardoloise",
         "type": "info",
-        "nomDeLaBire": "info"
+        "nomDeLaBire": "info",
+        "codification": "FARD"
     },
     {
         "brasserie": "Fardoloise",
@@ -1315,6 +1383,8 @@
         "nbreBouteilles": 12,
         "pu": 2.1,
         "montantHt": 25.200000000000003,
+        "commandLe": "2016-06-14T22:00:00.000Z",
+        "recuLe": "2016-06-14T22:00:00.000Z",
         "codification": "FARD-50-BLON"
     },
     {
@@ -1327,6 +1397,8 @@
         "nbreBouteilles": 12,
         "pu": 2.1,
         "montantHt": 25.200000000000003,
+        "commandLe": "2016-06-14T22:00:00.000Z",
+        "recuLe": "2016-06-14T22:00:00.000Z",
         "codification": "FARD-50-BLAN"
     },
     {
@@ -1339,6 +1411,8 @@
         "nbreBouteilles": 12,
         "pu": 2.1,
         "montantHt": 25.200000000000003,
+        "commandLe": "2016-06-14T22:00:00.000Z",
+        "recuLe": "2016-06-14T22:00:00.000Z",
         "codification": "FARD-50-AMBR"
     },
     {
@@ -1351,6 +1425,8 @@
         "nbreBouteilles": 12,
         "pu": 2.1,
         "montantHt": 25.200000000000003,
+        "commandLe": "2016-06-14T22:00:00.000Z",
+        "recuLe": "2016-06-14T22:00:00.000Z",
         "codification": "FARD-50-NOIR"
     },
     {
@@ -1363,6 +1439,8 @@
         "nbreBouteilles": 12,
         "pu": 2.1,
         "montantHt": 25.200000000000003,
+        "commandLe": "2016-06-14T22:00:00.000Z",
+        "recuLe": "2016-06-14T22:00:00.000Z",
         "codification": "FARD-50-FUME"
     },
     {
@@ -1375,6 +1453,8 @@
         "nbreBouteilles": 12,
         "pu": 2.1,
         "montantHt": 25.200000000000003,
+        "commandLe": "2016-06-14T22:00:00.000Z",
+        "recuLe": "2016-06-14T22:00:00.000Z",
         "codification": "FARD-50-IPA"
     },
     {
@@ -1385,14 +1465,17 @@
         "nbreCartons": 1,
         "parCarton": 12,
         "nbreBouteilles": 12,
-        "pu": 2.1,
-        "montantHt": 25.200000000000003,
+        "pu": 2.22,
+        "montantHt": 26.64,
+        "commandLe": "2016-06-14T22:00:00.000Z",
+        "recuLe": "2016-06-14T22:00:00.000Z",
         "codification": "FARD-50-TRIP"
     },
     {
         "brasserie": "Faucigny",
         "type": "info",
         "nomDeLaBire": "info",
+        "codification": "FAUC",
         "undefined": "04/06 : mail : commande 1 carton de chaque type, attente réponse des bières, conditions"
     },
     {
@@ -1608,7 +1691,8 @@
     {
         "brasserie": "Free mousse",
         "type": "info",
-        "nomDeLaBire": "info"
+        "nomDeLaBire": "info",
+        "codification": "FREE"
     },
     {
         "brasserie": "Free mousse",
@@ -1776,90 +1860,111 @@
     {
         "brasserie": "Galibier",
         "type": "info",
-        "nomDeLaBire": "info"
+        "nomDeLaBire": "info",
+        "codification": "GALI"
     },
     {
         "brasserie": "Galibier",
         "type": "classique",
         "nomDeLaBire": "Alpine (blanche)",
-        "contenance": 1.57,
+        "contenance": 33,
         "nbreCartons": 1,
         "parCarton": 24,
         "nbreBouteilles": 24,
-        "pu": 3.36,
-        "montantHt": 80.64,
+        "pu": 1.57,
+        "montantHt": 37.68,
         "commandLe": "2016-06-06T22:00:00.000Z",
+        "recuLe": "2016-06-14T22:00:00.000Z",
         "codification": "GALI-33-ALPI"
     },
     {
         "brasserie": "Galibier",
         "type": "classique",
         "nomDeLaBire": "Avalanche (ambrée)",
-        "contenance": 1.57,
+        "contenance": 33,
         "nbreCartons": 1,
         "parCarton": 24,
         "nbreBouteilles": 24,
-        "pu": 3.36,
-        "montantHt": 80.64,
+        "pu": 1.57,
+        "montantHt": 37.68,
         "commandLe": "2016-06-06T22:00:00.000Z",
+        "recuLe": "2016-06-14T22:00:00.000Z",
         "codification": "GALI-33-AVAL"
     },
     {
         "brasserie": "Galibier",
         "type": "classique",
         "nomDeLaBire": "Matchut (IPA)",
-        "contenance": 1.57,
+        "contenance": 33,
         "nbreCartons": 1,
         "parCarton": 24,
         "nbreBouteilles": 24,
-        "pu": 3.36,
-        "montantHt": 80.64,
+        "pu": 1.57,
+        "montantHt": 37.68,
         "commandLe": "2016-06-06T22:00:00.000Z",
+        "recuLe": "2016-06-14T22:00:00.000Z",
         "codification": "GALI-33-MATC"
     },
     {
         "brasserie": "Galibier",
         "type": "classique",
         "nomDeLaBire": "Alpine (blanche)",
-        "contenance": 3.23,
+        "contenance": 75,
         "nbreCartons": 1,
         "parCarton": 12,
         "nbreBouteilles": 12,
-        "pu": 3.36,
-        "montantHt": 40.32,
+        "pu": 3.23,
+        "montantHt": 38.76,
         "commandLe": "2016-06-06T22:00:00.000Z",
+        "recuLe": "2016-06-14T22:00:00.000Z",
         "codification": "GALI-75-ALPI"
     },
     {
         "brasserie": "Galibier",
         "type": "classique",
         "nomDeLaBire": "Avalanche (ambrée)",
-        "contenance": 3.23,
+        "contenance": 75,
         "nbreCartons": 1,
         "parCarton": 12,
         "nbreBouteilles": 12,
-        "pu": 3.36,
-        "montantHt": 40.32,
+        "pu": 3.23,
+        "montantHt": 38.76,
         "commandLe": "2016-06-06T22:00:00.000Z",
+        "recuLe": "2016-06-14T22:00:00.000Z",
         "codification": "GALI-75-AVAL"
     },
     {
         "brasserie": "Galibier",
         "type": "classique",
         "nomDeLaBire": "Matchut (IPA)",
-        "contenance": 3.23,
+        "contenance": 75,
         "nbreCartons": 1,
         "parCarton": 12,
         "nbreBouteilles": 12,
-        "pu": 3.36,
-        "montantHt": 40.32,
+        "pu": 3.23,
+        "montantHt": 38.76,
         "commandLe": "2016-06-06T22:00:00.000Z",
+        "recuLe": "2016-06-14T22:00:00.000Z",
         "codification": "GALI-75-MATC"
+    },
+    {
+        "brasserie": "Galibier",
+        "type": "Valisette",
+        "nomDeLaBire": "Valise 3X75 à monter",
+        "nbreCartons": 10,
+        "parCarton": 1,
+        "nbreBouteilles": 10,
+        "pu": 0.51,
+        "montantHt": 5.1,
+        "commandLe": "2016-06-06T22:00:00.000Z",
+        "recuLe": "2016-06-14T22:00:00.000Z",
+        "codification": "GALI-75-VALI-C3"
     },
     {
         "brasserie": "Giffre",
         "type": "info",
-        "nomDeLaBire": "info"
+        "nomDeLaBire": "info",
+        "codification": "GIFF"
     },
     {
         "brasserie": "Giffre",
@@ -1870,7 +1975,8 @@
         "parCarton": 12,
         "nbreBouteilles": 12,
         "pu": 1.65,
-        "montantHt": 19.799999999999997
+        "montantHt": 19.799999999999997,
+        "codification": "GIFF-33-BERO"
     },
     {
         "brasserie": "Giffre",
@@ -1881,7 +1987,8 @@
         "parCarton": 12,
         "nbreBouteilles": 12,
         "pu": 1.65,
-        "montantHt": 19.799999999999997
+        "montantHt": 19.799999999999997,
+        "codification": "GIFF-33-MPC"
     },
     {
         "brasserie": "Giffre",
@@ -1892,7 +1999,8 @@
         "parCarton": 12,
         "nbreBouteilles": 12,
         "pu": 1.65,
-        "montantHt": 19.799999999999997
+        "montantHt": 19.799999999999997,
+        "codification": "GIFF-33-BLAN"
     },
     {
         "brasserie": "Giffre",
@@ -1903,7 +2011,8 @@
         "parCarton": 12,
         "nbreBouteilles": 12,
         "pu": 1.65,
-        "montantHt": 19.799999999999997
+        "montantHt": 19.799999999999997,
+        "codification": "GIFF-33-PACI"
     },
     {
         "brasserie": "Giffre",
@@ -1914,7 +2023,8 @@
         "parCarton": 12,
         "nbreBouteilles": 12,
         "pu": 1.65,
-        "montantHt": 19.799999999999997
+        "montantHt": 19.799999999999997,
+        "codification": "GIFF-33-ORDI"
     },
     {
         "brasserie": "Giffre",
@@ -1925,7 +2035,8 @@
         "parCarton": 12,
         "nbreBouteilles": 12,
         "pu": 1.65,
-        "montantHt": 19.799999999999997
+        "montantHt": 19.799999999999997,
+        "codification": "GIFF-33-DUNK"
     },
     {
         "brasserie": "Giffre",
@@ -1936,7 +2047,8 @@
         "parCarton": 12,
         "nbreBouteilles": 12,
         "pu": 1.65,
-        "montantHt": 19.799999999999997
+        "montantHt": 19.799999999999997,
+        "codification": "GIFF-33-RIOU"
     },
     {
         "brasserie": "Giffre",
@@ -1947,7 +2059,8 @@
         "parCarton": 12,
         "nbreBouteilles": 12,
         "pu": 1.65,
-        "montantHt": 19.799999999999997
+        "montantHt": 19.799999999999997,
+        "codification": "GIFF-33-SEPT"
     },
     {
         "brasserie": "Giffre",
@@ -1958,7 +2071,8 @@
         "parCarton": 12,
         "nbreBouteilles": 12,
         "pu": 1.65,
-        "montantHt": 19.799999999999997
+        "montantHt": 19.799999999999997,
+        "codification": "GIFF-33-ROBU"
     },
     {
         "brasserie": "Giffre",
@@ -1969,7 +2083,8 @@
         "parCarton": 12,
         "nbreBouteilles": 12,
         "pu": 1.65,
-        "montantHt": 19.799999999999997
+        "montantHt": 19.799999999999997,
+        "codification": "GIFF-33-PEAT"
     },
     {
         "brasserie": "Giffre",
@@ -1980,7 +2095,8 @@
         "parCarton": 12,
         "nbreBouteilles": 12,
         "pu": 1.65,
-        "montantHt": 19.799999999999997
+        "montantHt": 19.799999999999997,
+        "codification": "GIFF-33-PRIN"
     },
     {
         "brasserie": "Giffre",
@@ -1990,7 +2106,8 @@
         "parCarton": 12,
         "nbreBouteilles": 0,
         "pu": 1.65,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "GIFF-33-NOEL"
     },
     {
         "brasserie": "Giffre",
@@ -2000,7 +2117,8 @@
         "parCarton": 12,
         "nbreBouteilles": 0,
         "pu": 1.65,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "GIFF-33-HIVE"
     },
     {
         "brasserie": "Giffre",
@@ -2010,7 +2128,8 @@
         "parCarton": 12,
         "nbreBouteilles": 0,
         "pu": 1.65,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "GIFF-33-AUTO"
     },
     {
         "brasserie": "Giffre",
@@ -2021,7 +2140,8 @@
         "parCarton": 6,
         "nbreBouteilles": 6,
         "pu": 3.34,
-        "montantHt": 20.04
+        "montantHt": 20.04,
+        "codification": "GIFF-75-BERO"
     },
     {
         "brasserie": "Giffre",
@@ -2032,7 +2152,8 @@
         "parCarton": 6,
         "nbreBouteilles": 6,
         "pu": 3.34,
-        "montantHt": 20.04
+        "montantHt": 20.04,
+        "codification": "GIFF-75-MPC"
     },
     {
         "brasserie": "Giffre",
@@ -2043,7 +2164,8 @@
         "parCarton": 6,
         "nbreBouteilles": 6,
         "pu": 3.34,
-        "montantHt": 20.04
+        "montantHt": 20.04,
+        "codification": "GIFF-75-BLAN"
     },
     {
         "brasserie": "Giffre",
@@ -2054,7 +2176,8 @@
         "parCarton": 6,
         "nbreBouteilles": 6,
         "pu": 3.34,
-        "montantHt": 20.04
+        "montantHt": 20.04,
+        "codification": "GIFF-75-PACI"
     },
     {
         "brasserie": "Giffre",
@@ -2065,7 +2188,8 @@
         "parCarton": 6,
         "nbreBouteilles": 6,
         "pu": 3.34,
-        "montantHt": 20.04
+        "montantHt": 20.04,
+        "codification": "GIFF-75-ORDI"
     },
     {
         "brasserie": "Giffre",
@@ -2076,7 +2200,8 @@
         "parCarton": 6,
         "nbreBouteilles": 6,
         "pu": 3.34,
-        "montantHt": 20.04
+        "montantHt": 20.04,
+        "codification": "GIFF-75-DUNK"
     },
     {
         "brasserie": "Giffre",
@@ -2087,7 +2212,8 @@
         "parCarton": 6,
         "nbreBouteilles": 6,
         "pu": 3.34,
-        "montantHt": 20.04
+        "montantHt": 20.04,
+        "codification": "GIFF-75-RIOU"
     },
     {
         "brasserie": "Giffre",
@@ -2098,7 +2224,8 @@
         "parCarton": 6,
         "nbreBouteilles": 6,
         "pu": 3.34,
-        "montantHt": 20.04
+        "montantHt": 20.04,
+        "codification": "GIFF-75-SEPT"
     },
     {
         "brasserie": "Giffre",
@@ -2109,7 +2236,8 @@
         "parCarton": 6,
         "nbreBouteilles": 6,
         "pu": 3.34,
-        "montantHt": 20.04
+        "montantHt": 20.04,
+        "codification": "GIFF-75-ROBU"
     },
     {
         "brasserie": "Giffre",
@@ -2120,7 +2248,8 @@
         "parCarton": 6,
         "nbreBouteilles": 6,
         "pu": 3.34,
-        "montantHt": 20.04
+        "montantHt": 20.04,
+        "codification": "GIFF-75-PEAT"
     },
     {
         "brasserie": "Giffre",
@@ -2131,7 +2260,8 @@
         "parCarton": 6,
         "nbreBouteilles": 6,
         "pu": 3.34,
-        "montantHt": 20.04
+        "montantHt": 20.04,
+        "codification": "GIFF-75-PRIN"
     },
     {
         "brasserie": "Giffre",
@@ -2141,7 +2271,8 @@
         "parCarton": 6,
         "nbreBouteilles": 0,
         "pu": 3.34,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "GIFF-75-NOEL"
     },
     {
         "brasserie": "Giffre",
@@ -2151,7 +2282,8 @@
         "parCarton": 6,
         "nbreBouteilles": 0,
         "pu": 3.34,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "GIFF-75-HIVE"
     },
     {
         "brasserie": "Giffre",
@@ -2161,12 +2293,14 @@
         "parCarton": 6,
         "nbreBouteilles": 0,
         "pu": 3.34,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "GIFF-75-AUTO"
     },
     {
         "brasserie": "Green Tail",
         "type": "info",
         "nomDeLaBire": "info",
+        "codification": "GREE",
         "undefined": "livraison à la demande ; 1er comptant puis 30 jours"
     },
     {
@@ -2180,7 +2314,7 @@
         "pu": 1.65,
         "montantHt": 99,
         "commandLe": "2016-06-03T22:00:00.000Z",
-        "achetLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-08T22:00:00.000Z",
         "codification": "GREE-33-GING"
     },
     {
@@ -2194,13 +2328,14 @@
         "pu": 3.92,
         "montantHt": 47.04,
         "commandLe": "2016-06-03T22:00:00.000Z",
-        "achetLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-08T22:00:00.000Z",
         "codification": "GREE-75-GING"
     },
     {
         "brasserie": "La canaille",
         "type": "info",
-        "nomDeLaBire": "info"
+        "nomDeLaBire": "info",
+        "codification": "CANA"
     },
     {
         "brasserie": "La canaille",
@@ -2482,6 +2617,7 @@
         "nomDeLaBire": "info",
         "nbreBouteilles": 0,
         "montantHt": 0,
+        "codification": "DAME",
         "undefined": "3 impasse des pommiers VILLETTE D'ANTHON (près MEYZIEU)\nà retirer sur place"
     },
     {
@@ -2495,7 +2631,7 @@
         "pu": 1.55,
         "montantHt": 18.6,
         "commandLe": "2016-06-07T22:00:00.000Z",
-        "achetLe": "2016-06-09T22:00:00.000Z",
+        "recuLe": "2016-06-09T22:00:00.000Z",
         "codification": "DAME-33-BLON"
     },
     {
@@ -2509,7 +2645,7 @@
         "pu": 1.55,
         "montantHt": 18.6,
         "commandLe": "2016-06-07T22:00:00.000Z",
-        "achetLe": "2016-06-09T22:00:00.000Z",
+        "recuLe": "2016-06-09T22:00:00.000Z",
         "codification": "DAME-33-BLAN"
     },
     {
@@ -2523,7 +2659,7 @@
         "pu": 1.55,
         "montantHt": 18.6,
         "commandLe": "2016-06-07T22:00:00.000Z",
-        "achetLe": "2016-06-09T22:00:00.000Z",
+        "recuLe": "2016-06-09T22:00:00.000Z",
         "codification": "DAME-33-DORE"
     },
     {
@@ -2537,7 +2673,7 @@
         "pu": 1.65,
         "montantHt": 19.799999999999997,
         "commandLe": "2016-06-07T22:00:00.000Z",
-        "achetLe": "2016-06-09T22:00:00.000Z",
+        "recuLe": "2016-06-09T22:00:00.000Z",
         "codification": "DAME-33-IMPE"
     },
     {
@@ -2551,7 +2687,7 @@
         "pu": 1.65,
         "montantHt": 19.799999999999997,
         "commandLe": "2016-06-07T22:00:00.000Z",
-        "achetLe": "2016-06-09T22:00:00.000Z",
+        "recuLe": "2016-06-09T22:00:00.000Z",
         "codification": "DAME-33-CARA"
     },
     {
@@ -2565,7 +2701,7 @@
         "pu": 1.55,
         "montantHt": 18.6,
         "commandLe": "2016-06-07T22:00:00.000Z",
-        "achetLe": "2016-06-09T22:00:00.000Z",
+        "recuLe": "2016-06-09T22:00:00.000Z",
         "codification": "DAME-33-CERI"
     },
     {
@@ -2579,7 +2715,7 @@
         "pu": 3.1,
         "montantHt": 18.6,
         "commandLe": "2016-06-07T22:00:00.000Z",
-        "achetLe": "2016-06-09T22:00:00.000Z",
+        "recuLe": "2016-06-09T22:00:00.000Z",
         "codification": "DAME-75-BLON"
     },
     {
@@ -2593,7 +2729,7 @@
         "pu": 3.1,
         "montantHt": 18.6,
         "commandLe": "2016-06-07T22:00:00.000Z",
-        "achetLe": "2016-06-09T22:00:00.000Z",
+        "recuLe": "2016-06-09T22:00:00.000Z",
         "codification": "DAME-75-BLAN"
     },
     {
@@ -2607,7 +2743,7 @@
         "pu": 3.1,
         "montantHt": 18.6,
         "commandLe": "2016-06-07T22:00:00.000Z",
-        "achetLe": "2016-06-09T22:00:00.000Z",
+        "recuLe": "2016-06-09T22:00:00.000Z",
         "codification": "DAME-75-DORE"
     },
     {
@@ -2621,7 +2757,7 @@
         "pu": 3.3,
         "montantHt": 19.799999999999997,
         "commandLe": "2016-06-07T22:00:00.000Z",
-        "achetLe": "2016-06-09T22:00:00.000Z",
+        "recuLe": "2016-06-09T22:00:00.000Z",
         "codification": "DAME-75-IMPE"
     },
     {
@@ -2635,13 +2771,14 @@
         "pu": 3.1,
         "montantHt": 18.6,
         "commandLe": "2016-06-07T22:00:00.000Z",
-        "achetLe": "2016-06-09T22:00:00.000Z",
+        "recuLe": "2016-06-09T22:00:00.000Z",
         "codification": "DAME-33-CERI"
     },
     {
         "brasserie": "La Soyeuse",
         "type": "info",
         "nomDeLaBire": "info",
+        "codification": "SOYE",
         "undefined": "mini commande 6 cartons, règlement 30 jours"
     },
     {
@@ -2649,11 +2786,13 @@
         "type": "Classique",
         "nomDeLaBire": "Blonde bio",
         "contenance": 33,
-        "nbreCartons": 2,
+        "nbreCartons": 1,
         "parCarton": 12,
-        "nbreBouteilles": 24,
+        "nbreBouteilles": 12,
         "pu": 1.65,
-        "montantHt": 39.599999999999994,
+        "montantHt": 19.799999999999997,
+        "commandLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-15T22:00:00.000Z",
         "codification": "SOYE-33-BLON"
     },
     {
@@ -2661,11 +2800,13 @@
         "type": "Classique",
         "nomDeLaBire": "Ambrée bio",
         "contenance": 33,
-        "nbreCartons": 2,
+        "nbreCartons": 1,
         "parCarton": 12,
-        "nbreBouteilles": 24,
+        "nbreBouteilles": 12,
         "pu": 1.65,
-        "montantHt": 39.599999999999994,
+        "montantHt": 19.799999999999997,
+        "commandLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-15T22:00:00.000Z",
         "codification": "SOYE-33-AMBR"
     },
     {
@@ -2673,11 +2814,13 @@
         "type": "Classique",
         "nomDeLaBire": "Rousse bio",
         "contenance": 33,
-        "nbreCartons": 2,
+        "nbreCartons": 1,
         "parCarton": 12,
-        "nbreBouteilles": 24,
+        "nbreBouteilles": 12,
         "pu": 1.65,
-        "montantHt": 39.599999999999994,
+        "montantHt": 19.799999999999997,
+        "commandLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-15T22:00:00.000Z",
         "codification": "SOYE-33-ROUS"
     },
     {
@@ -2685,11 +2828,13 @@
         "type": "Saisonnière",
         "nomDeLaBire": "Blonde bio au miel",
         "contenance": 33,
-        "nbreCartons": 2,
+        "nbreCartons": 1,
         "parCarton": 12,
-        "nbreBouteilles": 24,
+        "nbreBouteilles": 12,
         "pu": 1.75,
-        "montantHt": 42,
+        "montantHt": 21,
+        "commandLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-15T22:00:00.000Z",
         "codification": "SOYE-33-MIEL"
     },
     {
@@ -2697,11 +2842,13 @@
         "type": "Saisonnière",
         "nomDeLaBire": "Ambrée bio à la framboise",
         "contenance": 33,
-        "nbreCartons": 2,
+        "nbreCartons": 1,
         "parCarton": 12,
-        "nbreBouteilles": 24,
+        "nbreBouteilles": 12,
         "pu": 1.75,
-        "montantHt": 42,
+        "montantHt": 21,
+        "commandLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-15T22:00:00.000Z",
         "codification": "SOYE-33-FRAM"
     },
     {
@@ -2714,6 +2861,8 @@
         "nbreBouteilles": 6,
         "pu": 3.25,
         "montantHt": 19.5,
+        "commandLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-15T22:00:00.000Z",
         "codification": "SOYE-75-BLON"
     },
     {
@@ -2726,6 +2875,8 @@
         "nbreBouteilles": 6,
         "pu": 3.25,
         "montantHt": 19.5,
+        "commandLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-15T22:00:00.000Z",
         "codification": "SOYE-75-AMBR"
     },
     {
@@ -2738,6 +2889,8 @@
         "nbreBouteilles": 6,
         "pu": 3.25,
         "montantHt": 19.5,
+        "commandLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-15T22:00:00.000Z",
         "codification": "SOYE-75-ROUS"
     },
     {
@@ -2750,6 +2903,8 @@
         "nbreBouteilles": 6,
         "pu": 3.45,
         "montantHt": 20.700000000000003,
+        "commandLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-15T22:00:00.000Z",
         "codification": "SOYE-75-MIEL"
     },
     {
@@ -2762,12 +2917,15 @@
         "nbreBouteilles": 6,
         "pu": 3.45,
         "montantHt": 20.700000000000003,
+        "commandLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-15T22:00:00.000Z",
         "codification": "SOYE-75-FRAM"
     },
     {
         "brasserie": "La vieille mule",
         "type": "info",
         "nomDeLaBire": "info",
+        "codification": "MULE",
         "undefined": "Livre sur Lyon tous les mois / paiement 30 jours"
     },
     {
@@ -3020,6 +3178,7 @@
         "brasserie": "Les Ursulines",
         "type": "info",
         "nomDeLaBire": "info",
+        "codification": "URSU",
         "undefined": "à prendre sur place; tarifs dégressifs"
     },
     {
@@ -3033,7 +3192,7 @@
         "pu": 1.46,
         "montantHt": 17.52,
         "commandLe": "2016-05-30T22:00:00.000Z",
-        "achetLe": "2016-05-30T22:00:00.000Z",
+        "recuLe": "2016-05-30T22:00:00.000Z",
         "codification": "URSU-33-BLON"
     },
     {
@@ -3047,7 +3206,7 @@
         "pu": 1.46,
         "montantHt": 17.52,
         "commandLe": "2016-05-30T22:00:00.000Z",
-        "achetLe": "2016-05-30T22:00:00.000Z",
+        "recuLe": "2016-05-30T22:00:00.000Z",
         "codification": "URSU-33-DORE"
     },
     {
@@ -3061,7 +3220,7 @@
         "pu": 1.46,
         "montantHt": 17.52,
         "commandLe": "2016-05-30T22:00:00.000Z",
-        "achetLe": "2016-05-30T22:00:00.000Z",
+        "recuLe": "2016-05-30T22:00:00.000Z",
         "codification": "URSU-33-AMBR"
     },
     {
@@ -3075,7 +3234,7 @@
         "pu": 1.46,
         "montantHt": 17.52,
         "commandLe": "2016-05-30T22:00:00.000Z",
-        "achetLe": "2016-05-30T22:00:00.000Z",
+        "recuLe": "2016-05-30T22:00:00.000Z",
         "codification": "URSU-33-PRIN"
     },
     {
@@ -3133,7 +3292,7 @@
         "pu": 2.99,
         "montantHt": 17.94,
         "commandLe": "2016-05-30T22:00:00.000Z",
-        "achetLe": "2016-05-30T22:00:00.000Z",
+        "recuLe": "2016-05-30T22:00:00.000Z",
         "codification": "URSU-75-BLON"
     },
     {
@@ -3147,7 +3306,7 @@
         "pu": 2.99,
         "montantHt": 17.94,
         "commandLe": "2016-05-30T22:00:00.000Z",
-        "achetLe": "2016-05-30T22:00:00.000Z",
+        "recuLe": "2016-05-30T22:00:00.000Z",
         "codification": "URSU-75-DORE"
     },
     {
@@ -3161,7 +3320,7 @@
         "pu": 2.99,
         "montantHt": 17.94,
         "commandLe": "2016-05-30T22:00:00.000Z",
-        "achetLe": "2016-05-30T22:00:00.000Z",
+        "recuLe": "2016-05-30T22:00:00.000Z",
         "codification": "URSU-75-AMBR"
     },
     {
@@ -3175,7 +3334,7 @@
         "pu": 2.99,
         "montantHt": 17.94,
         "commandLe": "2016-05-30T22:00:00.000Z",
-        "achetLe": "2016-05-30T22:00:00.000Z",
+        "recuLe": "2016-05-30T22:00:00.000Z",
         "codification": "URSU-75-PRIN"
     },
     {
@@ -3232,7 +3391,7 @@
         "pu": 9.76,
         "montantHt": 9.76,
         "commandLe": "2016-05-30T22:00:00.000Z",
-        "achetLe": "2016-05-30T22:00:00.000Z",
+        "recuLe": "2016-05-30T22:00:00.000Z",
         "codification": "URSU-33-PANA-C6"
     },
     {
@@ -3245,7 +3404,7 @@
         "pu": 9.76,
         "montantHt": 9.76,
         "commandLe": "2016-05-30T22:00:00.000Z",
-        "achetLe": "2016-05-30T22:00:00.000Z",
+        "recuLe": "2016-05-30T22:00:00.000Z",
         "codification": "URSU-33-PANA-C4-V1"
     },
     {
@@ -3258,13 +3417,14 @@
         "pu": 9.97,
         "montantHt": 9.97,
         "commandLe": "2016-05-30T22:00:00.000Z",
-        "achetLe": "2016-05-30T22:00:00.000Z",
+        "recuLe": "2016-05-30T22:00:00.000Z",
         "codification": "URSU-75-PANA-C3"
     },
     {
         "brasserie": "Loire",
         "type": "info",
         "nomDeLaBire": "info",
+        "codification": "LOIR",
         "undefined": "délai 1 semaine, règlement 30 jours"
     },
     {
@@ -3272,147 +3432,174 @@
         "type": "Classique",
         "nomDeLaBire": "La ramberte (blanche)",
         "contenance": 33,
-        "nbreCartons": 2,
-        "parCarton": 6,
+        "nbreCartons": 1,
+        "parCarton": 12,
         "nbreBouteilles": 12,
         "pu": 1.29,
-        "montantHt": 15.48
+        "montantHt": 15.48,
+        "recuLe": "2016-06-14T22:00:00.000Z",
+        "codification": "LOIR-33-RAMB"
     },
     {
         "brasserie": "Loire",
         "type": "Classique",
         "nomDeLaBire": "La 109 (ambrée)",
         "contenance": 33,
-        "nbreCartons": 2,
-        "parCarton": 6,
+        "nbreCartons": 1,
+        "parCarton": 12,
         "nbreBouteilles": 12,
         "pu": 1.29,
-        "montantHt": 15.48
+        "montantHt": 15.48,
+        "recuLe": "2016-06-14T22:00:00.000Z",
+        "codification": "LOIR-33-109"
     },
     {
         "brasserie": "Loire",
         "type": "Classique",
         "nomDeLaBire": "La St Côme (blonde)",
         "contenance": 33,
-        "parCarton": 6,
-        "nbreBouteilles": 0,
+        "nbreCartons": 1,
+        "parCarton": 12,
+        "nbreBouteilles": 12,
         "pu": 1.29,
-        "montantHt": 0
+        "montantHt": 15.48,
+        "recuLe": "2016-06-14T22:00:00.000Z",
+        "codification": "LOIR-33-COME"
     },
     {
         "brasserie": "Loire",
         "type": "Classique",
         "nomDeLaBire": "La gueule noire (brune)",
         "contenance": 33,
-        "nbreCartons": 2,
-        "parCarton": 6,
-        "nbreBouteilles": 12,
+        "parCarton": 12,
+        "nbreBouteilles": 0,
         "pu": 1.29,
-        "montantHt": 15.48
+        "montantHt": 0,
+        "codification": "LOIR-33-NOIR"
     },
     {
         "brasserie": "Loire",
         "type": "Spéciale",
         "nomDeLaBire": "L'aveille (blonde)",
         "contenance": 33,
-        "parCarton": 6,
-        "nbreBouteilles": 0,
+        "nbreCartons": 1,
+        "parCarton": 12,
+        "nbreBouteilles": 12,
         "pu": 1.29,
-        "montantHt": 0
+        "montantHt": 15.48,
+        "recuLe": "2016-06-14T22:00:00.000Z",
+        "codification": "LOIR-33-AVEI"
     },
     {
         "brasserie": "Loire",
         "type": "Spéciale",
         "nomDeLaBire": "La messon (blonde triple)",
         "contenance": 33,
-        "nbreCartons": 2,
-        "parCarton": 6,
+        "nbreCartons": 1,
+        "parCarton": 12,
         "nbreBouteilles": 12,
         "pu": 1.29,
-        "montantHt": 15.48
+        "montantHt": 15.48,
+        "recuLe": "2016-06-14T22:00:00.000Z",
+        "codification": "LOIR-33-MESS"
     },
     {
         "brasserie": "Loire",
         "type": "Spéciale",
         "nomDeLaBire": "La boulonji (ambrée)",
         "contenance": 33,
-        "parCarton": 6,
+        "parCarton": 12,
         "nbreBouteilles": 0,
         "pu": 1.29,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "LOIR-33-BOUL"
     },
     {
         "brasserie": "Loire",
         "type": "Saisonnière",
         "nomDeLaBire": "La garipotte (blonde) printemps",
         "contenance": 33,
-        "nbreCartons": 2,
-        "parCarton": 6,
+        "nbreCartons": 1,
+        "parCarton": 12,
         "nbreBouteilles": 12,
         "pu": 1.29,
-        "montantHt": 15.48
+        "montantHt": 15.48,
+        "recuLe": "2016-06-14T22:00:00.000Z",
+        "codification": "LOIR-33-GARI"
     },
     {
         "brasserie": "Loire",
         "type": "Saisonnière",
         "nomDeLaBire": "La mosser (blonde) été",
         "contenance": 33,
-        "nbreCartons": 2,
-        "parCarton": 6,
+        "nbreCartons": 1,
+        "parCarton": 12,
         "nbreBouteilles": 12,
         "pu": 1.29,
-        "montantHt": 15.48
+        "montantHt": 15.48,
+        "recuLe": "2016-06-14T22:00:00.000Z",
+        "codification": "LOIR-33-MOSS"
     },
     {
         "brasserie": "Loire",
         "type": "Saisonnière",
         "nomDeLaBire": "La gruette (chocolat) hiver",
         "contenance": 33,
-        "parCarton": 6,
+        "parCarton": 12,
         "nbreBouteilles": 0,
         "pu": 1.29,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "LOIR-33-GRUE"
     },
     {
         "brasserie": "Loire",
         "type": "Saisonnière",
         "nomDeLaBire": "La pampille (rousse) hiver",
         "contenance": 33,
-        "parCarton": 6,
+        "parCarton": 12,
         "nbreBouteilles": 0,
         "pu": 1.29,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "LOIR-33-PAMP"
     },
     {
         "brasserie": "Loire",
         "type": "Classique",
         "nomDeLaBire": "La ramberte (blanche)",
         "contenance": 75,
+        "nbreCartons": 1,
         "parCarton": 6,
-        "nbreBouteilles": 0,
+        "nbreBouteilles": 6,
         "pu": 2.59,
-        "montantHt": 0
+        "montantHt": 15.54,
+        "recuLe": "2016-06-14T22:00:00.000Z",
+        "codification": "LOIR-75-RAMB"
     },
     {
         "brasserie": "Loire",
         "type": "Classique",
         "nomDeLaBire": "La 109 (ambrée)",
         "contenance": 75,
+        "nbreCartons": 1,
         "parCarton": 6,
-        "nbreBouteilles": 0,
+        "nbreBouteilles": 6,
         "pu": 2.59,
-        "montantHt": 0
+        "montantHt": 15.54,
+        "recuLe": "2016-06-14T22:00:00.000Z",
+        "codification": "LOIR-75-109"
     },
     {
         "brasserie": "Loire",
         "type": "Classique",
         "nomDeLaBire": "La St Côme (blonde)",
         "contenance": 75,
-        "nbreCartons": 2,
+        "nbreCartons": 1,
         "parCarton": 6,
-        "nbreBouteilles": 12,
+        "nbreBouteilles": 6,
         "pu": 2.59,
-        "montantHt": 31.08
+        "montantHt": 15.54,
+        "recuLe": "2016-06-14T22:00:00.000Z",
+        "codification": "LOIR-75-COME"
     },
     {
         "brasserie": "Loire",
@@ -3422,28 +3609,34 @@
         "parCarton": 6,
         "nbreBouteilles": 0,
         "pu": 2.59,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "LOIR-75-GUEU"
     },
     {
         "brasserie": "Loire",
         "type": "Spéciale",
         "nomDeLaBire": "L'aveille (blonde)",
         "contenance": 75,
+        "nbreCartons": 1,
         "parCarton": 6,
-        "nbreBouteilles": 0,
+        "nbreBouteilles": 6,
         "pu": 2.59,
-        "montantHt": 0
+        "montantHt": 15.54,
+        "recuLe": "2016-06-14T22:00:00.000Z",
+        "codification": "LOIR-75-AVEI"
     },
     {
         "brasserie": "Loire",
         "type": "Spéciale",
         "nomDeLaBire": "La messon (blonde triple)",
         "contenance": 75,
-        "nbreCartons": 2,
+        "nbreCartons": 1,
         "parCarton": 6,
-        "nbreBouteilles": 12,
+        "nbreBouteilles": 6,
         "pu": 2.59,
-        "montantHt": 31.08
+        "montantHt": 15.54,
+        "recuLe": "2016-06-14T22:00:00.000Z",
+        "codification": "LOIR-75-MESS"
     },
     {
         "brasserie": "Loire",
@@ -3453,29 +3646,34 @@
         "parCarton": 6,
         "nbreBouteilles": 0,
         "pu": 2.59,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "LOIR-75-BOUL"
     },
     {
         "brasserie": "Loire",
         "type": "Saisonnière",
         "nomDeLaBire": "La garipotte (blonde) printemps",
         "contenance": 75,
-        "nbreCartons": 2,
+        "nbreCartons": 1,
         "parCarton": 6,
-        "nbreBouteilles": 12,
+        "nbreBouteilles": 6,
         "pu": 2.59,
-        "montantHt": 31.08
+        "montantHt": 15.54,
+        "recuLe": "2016-06-14T22:00:00.000Z",
+        "codification": "LOIR-75-GARI"
     },
     {
         "brasserie": "Loire",
         "type": "Saisonnière",
         "nomDeLaBire": "La mosser (blonde) été",
         "contenance": 75,
-        "nbreCartons": 2,
+        "nbreCartons": 1,
         "parCarton": 6,
-        "nbreBouteilles": 12,
+        "nbreBouteilles": 6,
         "pu": 2.59,
-        "montantHt": 31.08
+        "montantHt": 15.54,
+        "recuLe": "2016-06-14T22:00:00.000Z",
+        "codification": "LOIR-75-MOSS"
     },
     {
         "brasserie": "Loire",
@@ -3485,7 +3683,8 @@
         "parCarton": 6,
         "nbreBouteilles": 0,
         "pu": 2.59,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "LOIR-75-GRUE"
     },
     {
         "brasserie": "Loire",
@@ -3495,12 +3694,53 @@
         "parCarton": 6,
         "nbreBouteilles": 0,
         "pu": 2.59,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "LOIR-75-PAMP"
+    },
+    {
+        "brasserie": "Loire",
+        "type": "Valisette",
+        "nomDeLaBire": "6X33 Valise à monter",
+        "contenance": 33,
+        "nbreCartons": 1,
+        "parCarton": 10,
+        "nbreBouteilles": 10,
+        "pu": 0.92,
+        "montantHt": 9.200000000000001,
+        "recuLe": "2016-06-14T22:00:00.000Z",
+        "codification": "LOIR-33-VALI-C6"
+    },
+    {
+        "brasserie": "Loire",
+        "type": "Valisette",
+        "nomDeLaBire": "3X75 Valise à monter",
+        "contenance": 75,
+        "nbreCartons": 1,
+        "parCarton": 10,
+        "nbreBouteilles": 10,
+        "pu": 0.92,
+        "montantHt": 9.200000000000001,
+        "recuLe": "2016-06-14T22:00:00.000Z",
+        "codification": "LOIR-75-VALI-C3"
+    },
+    {
+        "brasserie": "Loire",
+        "type": "Terrine Proc",
+        "nomDeLaBire": "Terrine Proc",
+        "contenance": "180g",
+        "nbreCartons": 1,
+        "parCarton": 1,
+        "nbreBouteilles": 1,
+        "pu": 2.55,
+        "montantHt": 2.55,
+        "recuLe": "2016-06-14T22:00:00.000Z",
+        "codification": "LOIR-TERRINE"
     },
     {
         "brasserie": "Léman",
         "type": "info",
         "nomDeLaBire": "info",
+        "codification": "NON",
         "undefined": "franco : 0€ si > 400€, 35€ si > 200€, règlement 30 jours"
     },
     {
@@ -3687,6 +3927,7 @@
         "brasserie": "Mandrin",
         "type": "info",
         "nomDeLaBire": "info",
+        "codification": "MAND",
         "undefined": "Franco 500€, règlement 30 jours"
     },
     {
@@ -3700,7 +3941,7 @@
         "pu": 1.457,
         "montantHt": 34.968,
         "commandLe": "2016-06-02T22:00:00.000Z",
-        "achetLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-08T22:00:00.000Z",
         "codification": "MAND-33-NOIX"
     },
     {
@@ -3714,7 +3955,7 @@
         "pu": 1.459,
         "montantHt": 35.016000000000005,
         "commandLe": "2016-06-02T22:00:00.000Z",
-        "achetLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-08T22:00:00.000Z",
         "codification": "MAND-33-CHAN"
     },
     {
@@ -3739,7 +3980,7 @@
         "pu": 1.39,
         "montantHt": 33.36,
         "commandLe": "2016-06-02T22:00:00.000Z",
-        "achetLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-08T22:00:00.000Z",
         "codification": "MAND-33-BLAN"
     },
     {
@@ -3753,7 +3994,7 @@
         "pu": 1.445,
         "montantHt": 34.68,
         "commandLe": "2016-06-02T22:00:00.000Z",
-        "achetLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-08T22:00:00.000Z",
         "codification": "MAND-33-MIEL"
     },
     {
@@ -3767,7 +4008,7 @@
         "pu": 1.699,
         "montantHt": 40.776,
         "commandLe": "2016-06-02T22:00:00.000Z",
-        "achetLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-08T22:00:00.000Z",
         "codification": "MAND-33-TRIP"
     },
     {
@@ -3825,7 +4066,7 @@
         "pu": 3.149,
         "montantHt": 37.788,
         "commandLe": "2016-06-02T22:00:00.000Z",
-        "achetLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-08T22:00:00.000Z",
         "codification": "MAND-75-NOIX"
     },
     {
@@ -3839,7 +4080,7 @@
         "pu": 3.155,
         "montantHt": 37.86,
         "commandLe": "2016-06-02T22:00:00.000Z",
-        "achetLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-08T22:00:00.000Z",
         "codification": "MAND-75-CHAN"
     },
     {
@@ -3864,7 +4105,7 @@
         "pu": 3.026,
         "montantHt": 36.312,
         "commandLe": "2016-06-02T22:00:00.000Z",
-        "achetLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-08T22:00:00.000Z",
         "codification": "MAND-75-BLAN"
     },
     {
@@ -3878,7 +4119,7 @@
         "pu": 3.121,
         "montantHt": 37.452,
         "commandLe": "2016-06-02T22:00:00.000Z",
-        "achetLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-08T22:00:00.000Z",
         "codification": "MAND-75-MIEL"
     },
     {
@@ -3892,7 +4133,7 @@
         "pu": 3.348,
         "montantHt": 40.176,
         "commandLe": "2016-06-02T22:00:00.000Z",
-        "achetLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-08T22:00:00.000Z",
         "codification": "MAND-75-TRIP"
     },
     {
@@ -3949,13 +4190,14 @@
         "pu": 10.647,
         "montantHt": 53.235,
         "commandLe": "2016-06-02T22:00:00.000Z",
-        "achetLe": "2016-06-08T22:00:00.000Z",
+        "recuLe": "2016-06-08T22:00:00.000Z",
         "codification": "MAND-33-C4-V2"
     },
     {
         "brasserie": "Mont Blanc",
         "type": "info",
         "nomDeLaBire": "info",
+        "codification": "?",
         "undefined": "Règlement 45 jours FDM, Remise quantitative: CUMULATIVES : -6% sur prix départ HT/HD pour une commande > 300 € HT/DC / -6% sur prix départ HT/HD pour une commande > 600 € HT/DC"
     },
     {
@@ -4073,7 +4315,8 @@
         "type": "info",
         "nomDeLaBire": "info",
         "nbreBouteilles": 0,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "POPE"
     },
     {
         "brasserie": "Mont Popey",
@@ -4084,12 +4327,14 @@
         "parCarton": 6,
         "nbreBouteilles": 18,
         "pu": 4,
-        "montantHt": 72
+        "montantHt": 72,
+        "codification": "POPE-75-CLAS"
     },
     {
         "brasserie": "Mélusine",
         "type": "info",
-        "nomDeLaBire": "info"
+        "nomDeLaBire": "info",
+        "codification": "?"
     },
     {
         "brasserie": "Mélusine",
@@ -4355,6 +4600,7 @@
         "brasserie": "Prisca",
         "type": "info",
         "nomDeLaBire": "info",
+        "codification": "NON",
         "undefined": "Le franco est de 10 cartons minimum. Livraison = 1 semaine"
     },
     {
@@ -4365,7 +4611,8 @@
         "parCarton": 12,
         "nbreBouteilles": 0,
         "pu": 1.5,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "PRIS-"
     },
     {
         "brasserie": "Prisca",
@@ -4375,7 +4622,8 @@
         "parCarton": 12,
         "nbreBouteilles": 0,
         "pu": 1.5,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "PRIS-"
     },
     {
         "brasserie": "Prisca",
@@ -4385,7 +4633,8 @@
         "parCarton": 12,
         "nbreBouteilles": 0,
         "pu": 1.5,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "PRIS-"
     },
     {
         "brasserie": "Prisca",
@@ -4395,7 +4644,8 @@
         "parCarton": 12,
         "nbreBouteilles": 0,
         "pu": 1.5,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "PRIS-"
     },
     {
         "brasserie": "Prisca",
@@ -4405,7 +4655,8 @@
         "parCarton": 12,
         "nbreBouteilles": 0,
         "pu": 1.6,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "PRIS-"
     },
     {
         "brasserie": "Prisca",
@@ -4415,7 +4666,8 @@
         "parCarton": 12,
         "nbreBouteilles": 0,
         "pu": 1.6,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "PRIS-"
     },
     {
         "brasserie": "Prisca",
@@ -4425,7 +4677,8 @@
         "parCarton": 12,
         "nbreBouteilles": 0,
         "pu": 1.6,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "PRIS-"
     },
     {
         "brasserie": "Prisca",
@@ -4435,7 +4688,8 @@
         "parCarton": 12,
         "nbreBouteilles": 0,
         "pu": 1.6,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "PRIS-"
     },
     {
         "brasserie": "Prisca",
@@ -4445,7 +4699,8 @@
         "parCarton": 12,
         "nbreBouteilles": 0,
         "pu": 1.7,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "PRIS-"
     },
     {
         "brasserie": "Prisca",
@@ -4455,7 +4710,8 @@
         "parCarton": 12,
         "nbreBouteilles": 0,
         "pu": 1.7,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "PRIS-"
     },
     {
         "brasserie": "Prisca",
@@ -4465,7 +4721,8 @@
         "parCarton": 6,
         "nbreBouteilles": 0,
         "pu": 2.9,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "PRIS-"
     },
     {
         "brasserie": "Prisca",
@@ -4475,7 +4732,8 @@
         "parCarton": 6,
         "nbreBouteilles": 0,
         "pu": 2.9,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "PRIS-"
     },
     {
         "brasserie": "Prisca",
@@ -4485,7 +4743,8 @@
         "parCarton": 6,
         "nbreBouteilles": 0,
         "pu": 2.9,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "PRIS-"
     },
     {
         "brasserie": "Prisca",
@@ -4495,7 +4754,8 @@
         "parCarton": 6,
         "nbreBouteilles": 0,
         "pu": 2.9,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "PRIS-"
     },
     {
         "brasserie": "Prisca",
@@ -4505,7 +4765,8 @@
         "parCarton": 6,
         "nbreBouteilles": 0,
         "pu": 3.1,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "PRIS-"
     },
     {
         "brasserie": "Prisca",
@@ -4515,7 +4776,8 @@
         "parCarton": 6,
         "nbreBouteilles": 0,
         "pu": 3.1,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "PRIS-"
     },
     {
         "brasserie": "Prisca",
@@ -4525,7 +4787,8 @@
         "parCarton": 6,
         "nbreBouteilles": 0,
         "pu": 3.1,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "PRIS-"
     },
     {
         "brasserie": "Prisca",
@@ -4535,7 +4798,8 @@
         "parCarton": 6,
         "nbreBouteilles": 0,
         "pu": 3.1,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "PRIS-"
     },
     {
         "brasserie": "Prisca",
@@ -4545,7 +4809,8 @@
         "parCarton": 6,
         "nbreBouteilles": 0,
         "pu": 3.3,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "PRIS-"
     },
     {
         "brasserie": "Prisca",
@@ -4555,12 +4820,14 @@
         "parCarton": 6,
         "nbreBouteilles": 0,
         "pu": 3.3,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "PRIS-"
     },
     {
         "brasserie": "Rivière d'Ain",
         "type": "info",
-        "nomDeLaBire": "info"
+        "nomDeLaBire": "info",
+        "codification": "RAIN"
     },
     {
         "brasserie": "Rivière d'Ain",
@@ -4570,7 +4837,8 @@
         "parCarton": 24,
         "nbreBouteilles": 0,
         "pu": 1.8032,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "RAIN-"
     },
     {
         "brasserie": "Rivière d'Ain",
@@ -4580,7 +4848,8 @@
         "parCarton": 24,
         "nbreBouteilles": 0,
         "pu": 1.8032,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "RAIN-"
     },
     {
         "brasserie": "Rivière d'Ain",
@@ -4590,7 +4859,8 @@
         "parCarton": 24,
         "nbreBouteilles": 0,
         "pu": 1.8032,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "RAIN-"
     },
     {
         "brasserie": "Rivière d'Ain",
@@ -4600,7 +4870,8 @@
         "parCarton": 24,
         "nbreBouteilles": 0,
         "pu": 1.8032,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "RAIN-"
     },
     {
         "brasserie": "Rivière d'Ain",
@@ -4610,7 +4881,8 @@
         "parCarton": 24,
         "nbreBouteilles": 0,
         "pu": 1.8032,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "RAIN-"
     },
     {
         "brasserie": "Rivière d'Ain",
@@ -4620,7 +4892,8 @@
         "parCarton": 24,
         "nbreBouteilles": 0,
         "pu": 1.8032,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "RAIN-"
     },
     {
         "brasserie": "Rivière d'Ain",
@@ -4630,7 +4903,8 @@
         "parCarton": 24,
         "nbreBouteilles": 0,
         "pu": 1.8032,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "RAIN-"
     },
     {
         "brasserie": "Rivière d'Ain",
@@ -4640,7 +4914,8 @@
         "parCarton": 6,
         "nbreBouteilles": 0,
         "pu": 3.5917000000000003,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "RAIN-"
     },
     {
         "brasserie": "Rivière d'Ain",
@@ -4650,7 +4925,8 @@
         "parCarton": 6,
         "nbreBouteilles": 0,
         "pu": 3.5917000000000003,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "RAIN-"
     },
     {
         "brasserie": "Rivière d'Ain",
@@ -4660,7 +4936,8 @@
         "parCarton": 6,
         "nbreBouteilles": 0,
         "pu": 3.5917000000000003,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "RAIN-"
     },
     {
         "brasserie": "Rivière d'Ain",
@@ -4670,7 +4947,8 @@
         "parCarton": 6,
         "nbreBouteilles": 0,
         "pu": 3.5917000000000003,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "RAIN-"
     },
     {
         "brasserie": "Rivière d'Ain",
@@ -4680,7 +4958,8 @@
         "parCarton": 6,
         "nbreBouteilles": 0,
         "pu": 3.5917000000000003,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "RAIN-"
     },
     {
         "brasserie": "Rivière d'Ain",
@@ -4690,7 +4969,8 @@
         "parCarton": 6,
         "nbreBouteilles": 0,
         "pu": 3.5917000000000003,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "RAIN-"
     },
     {
         "brasserie": "Rivière d'Ain",
@@ -4700,12 +4980,14 @@
         "parCarton": 6,
         "nbreBouteilles": 0,
         "pu": 3.5917000000000003,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "RAIN-"
     },
     {
         "brasserie": "Rouget de Lisle",
         "type": "info",
         "nomDeLaBire": "info",
+        "codification": "ROUG",
         "undefined": "franco 15 cartons"
     },
     {
@@ -4716,7 +4998,8 @@
         "parCarton": 24,
         "nbreBouteilles": 0,
         "pu": 1.131,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "ROUG-"
     },
     {
         "brasserie": "Rouget de Lisle",
@@ -4726,7 +5009,8 @@
         "parCarton": 24,
         "nbreBouteilles": 0,
         "pu": 1.724,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "ROUG-"
     },
     {
         "brasserie": "Rouget de Lisle",
@@ -4736,7 +5020,8 @@
         "parCarton": 24,
         "nbreBouteilles": 0,
         "pu": 1.607,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "ROUG-"
     },
     {
         "brasserie": "Rouget de Lisle",
@@ -4746,7 +5031,8 @@
         "parCarton": 24,
         "nbreBouteilles": 0,
         "pu": 1.621,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "ROUG-"
     },
     {
         "brasserie": "Rouget de Lisle",
@@ -4756,7 +5042,8 @@
         "parCarton": 24,
         "nbreBouteilles": 0,
         "pu": 1.626,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "ROUG-"
     },
     {
         "brasserie": "Rouget de Lisle",
@@ -4766,7 +5053,8 @@
         "parCarton": 24,
         "nbreBouteilles": 0,
         "pu": 1.621,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "ROUG-"
     },
     {
         "brasserie": "Rouget de Lisle",
@@ -4776,7 +5064,8 @@
         "parCarton": 24,
         "nbreBouteilles": 0,
         "pu": 1.624,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "ROUG-"
     },
     {
         "brasserie": "Rouget de Lisle",
@@ -4786,7 +5075,8 @@
         "parCarton": 24,
         "nbreBouteilles": 0,
         "pu": 1.624,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "ROUG-"
     },
     {
         "brasserie": "Rouget de Lisle",
@@ -4796,7 +5086,8 @@
         "parCarton": 24,
         "nbreBouteilles": 0,
         "pu": 1.621,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "ROUG-"
     },
     {
         "brasserie": "Rouget de Lisle",
@@ -4806,7 +5097,8 @@
         "parCarton": 24,
         "nbreBouteilles": 0,
         "pu": 1.954,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "ROUG-"
     },
     {
         "brasserie": "Rouget de Lisle",
@@ -4816,7 +5108,8 @@
         "parCarton": 24,
         "nbreBouteilles": 0,
         "pu": 1.624,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "ROUG-"
     },
     {
         "brasserie": "Rouget de Lisle",
@@ -4826,7 +5119,8 @@
         "parCarton": 24,
         "nbreBouteilles": 0,
         "pu": 1.621,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "ROUG-"
     },
     {
         "brasserie": "Rouget de Lisle",
@@ -4836,7 +5130,8 @@
         "parCarton": 24,
         "nbreBouteilles": 0,
         "pu": 1.624,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "ROUG-"
     },
     {
         "brasserie": "Rouget de Lisle",
@@ -4846,7 +5141,8 @@
         "parCarton": 24,
         "nbreBouteilles": 0,
         "pu": 1.626,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "ROUG-"
     },
     {
         "brasserie": "Rouget de Lisle",
@@ -4856,7 +5152,8 @@
         "parCarton": 24,
         "nbreBouteilles": 0,
         "pu": 1.626,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "ROUG-"
     },
     {
         "brasserie": "Rouget de Lisle",
@@ -4866,7 +5163,8 @@
         "parCarton": 24,
         "nbreBouteilles": 0,
         "pu": 1.621,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "ROUG-"
     },
     {
         "brasserie": "Rouget de Lisle",
@@ -4876,7 +5174,8 @@
         "parCarton": 12,
         "nbreBouteilles": 0,
         "pu": 3.839,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "ROUG-"
     },
     {
         "brasserie": "Rouget de Lisle",
@@ -4886,7 +5185,8 @@
         "parCarton": 12,
         "nbreBouteilles": 0,
         "pu": 3.601,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "ROUG-"
     },
     {
         "brasserie": "Rouget de Lisle",
@@ -4896,7 +5196,8 @@
         "parCarton": 12,
         "nbreBouteilles": 0,
         "pu": 3.635,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "ROUG-"
     },
     {
         "brasserie": "Rouget de Lisle",
@@ -4906,7 +5207,8 @@
         "parCarton": 12,
         "nbreBouteilles": 0,
         "pu": 3.646,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "ROUG-"
     },
     {
         "brasserie": "Rouget de Lisle",
@@ -4916,7 +5218,8 @@
         "parCarton": 12,
         "nbreBouteilles": 0,
         "pu": 3.635,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "ROUG-"
     },
     {
         "brasserie": "Rouget de Lisle",
@@ -4926,7 +5229,8 @@
         "parCarton": 12,
         "nbreBouteilles": 0,
         "pu": 3.639,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "ROUG-"
     },
     {
         "brasserie": "Rouget de Lisle",
@@ -4936,7 +5240,8 @@
         "parCarton": 12,
         "nbreBouteilles": 0,
         "pu": 3.639,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "ROUG-"
     },
     {
         "brasserie": "Rouget de Lisle",
@@ -4946,7 +5251,8 @@
         "parCarton": 12,
         "nbreBouteilles": 0,
         "pu": 3.635,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "ROUG-"
     },
     {
         "brasserie": "Rouget de Lisle",
@@ -4956,7 +5262,8 @@
         "parCarton": 12,
         "nbreBouteilles": 0,
         "pu": 4.379,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "ROUG-"
     },
     {
         "brasserie": "Rouget de Lisle",
@@ -4966,7 +5273,8 @@
         "parCarton": 12,
         "nbreBouteilles": 0,
         "pu": 3.639,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "ROUG-"
     },
     {
         "brasserie": "Rouget de Lisle",
@@ -4976,7 +5284,8 @@
         "parCarton": 12,
         "nbreBouteilles": 0,
         "pu": 3.635,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "ROUG-"
     },
     {
         "brasserie": "Rouget de Lisle",
@@ -4986,7 +5295,8 @@
         "parCarton": 12,
         "nbreBouteilles": 0,
         "pu": 3.639,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "ROUG-"
     },
     {
         "brasserie": "Rouget de Lisle",
@@ -4996,7 +5306,8 @@
         "parCarton": 12,
         "nbreBouteilles": 0,
         "pu": 3.646,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "ROUG-"
     },
     {
         "brasserie": "Rouget de Lisle",
@@ -5006,7 +5317,8 @@
         "parCarton": 12,
         "nbreBouteilles": 0,
         "pu": 3.646,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "ROUG-"
     },
     {
         "brasserie": "Rouget de Lisle",
@@ -5016,12 +5328,14 @@
         "parCarton": 12,
         "nbreBouteilles": 0,
         "pu": 3.635,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "ROUG-"
     },
     {
         "brasserie": "Saubadia",
         "type": "info",
-        "nomDeLaBire": "info"
+        "nomDeLaBire": "info",
+        "codification": "SAUB"
     },
     {
         "brasserie": "Saubadia",
@@ -5031,7 +5345,8 @@
         "parCarton": 24,
         "nbreBouteilles": 0,
         "pu": 1.18,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "SAUB-"
     },
     {
         "brasserie": "Saubadia",
@@ -5041,7 +5356,8 @@
         "parCarton": 24,
         "nbreBouteilles": 0,
         "pu": 1.18,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "SAUB-"
     },
     {
         "brasserie": "Saubadia",
@@ -5051,7 +5367,8 @@
         "parCarton": 24,
         "nbreBouteilles": 0,
         "pu": 1.18,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "SAUB-"
     },
     {
         "brasserie": "Saubadia",
@@ -5061,7 +5378,8 @@
         "parCarton": 24,
         "nbreBouteilles": 0,
         "pu": 1.18,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "SAUB-"
     },
     {
         "brasserie": "Saubadia",
@@ -5071,7 +5389,8 @@
         "parCarton": 9,
         "nbreBouteilles": 0,
         "pu": 2.86,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "SAUB-"
     },
     {
         "brasserie": "Saubadia",
@@ -5081,7 +5400,8 @@
         "parCarton": 9,
         "nbreBouteilles": 0,
         "pu": 2.86,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "SAUB-"
     },
     {
         "brasserie": "Saubadia",
@@ -5091,7 +5411,8 @@
         "parCarton": 9,
         "nbreBouteilles": 0,
         "pu": 2.86,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "SAUB-"
     },
     {
         "brasserie": "Saubadia",
@@ -5101,7 +5422,8 @@
         "parCarton": 9,
         "nbreBouteilles": 0,
         "pu": 2.86,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "SAUB-"
     },
     {
         "brasserie": "Saubadia",
@@ -5111,7 +5433,8 @@
         "parCarton": 9,
         "nbreBouteilles": 0,
         "pu": 2.95,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "SAUB-"
     },
     {
         "brasserie": "Saubadia",
@@ -5121,14 +5444,16 @@
         "parCarton": 9,
         "nbreBouteilles": 0,
         "pu": 2.95,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "SAUB-"
     },
     {
         "brasserie": "Single Track",
         "type": "info",
         "nomDeLaBire": "info",
         "nbreBouteilles": 0,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "SING-"
     },
     {
         "brasserie": "Single Track",
@@ -5328,6 +5653,7 @@
         "brasserie": "Terre de bières",
         "type": "info",
         "nomDeLaBire": "info",
+        "codification": "TERR",
         "undefined": "Livraison 8 jours, règlement 30 jours FDM"
     },
     {
@@ -5338,7 +5664,8 @@
         "parCarton": 12,
         "nbreBouteilles": 0,
         "pu": 1.51,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "TERR-"
     },
     {
         "brasserie": "Terre de bières",
@@ -5348,7 +5675,8 @@
         "parCarton": 12,
         "nbreBouteilles": 0,
         "pu": 1.53,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "TERR-"
     },
     {
         "brasserie": "Terre de bières",
@@ -5358,7 +5686,8 @@
         "parCarton": 12,
         "nbreBouteilles": 0,
         "pu": 1.53,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "TERR-"
     },
     {
         "brasserie": "Terre de bières",
@@ -5368,7 +5697,8 @@
         "parCarton": 12,
         "nbreBouteilles": 0,
         "pu": 1.53,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "TERR-"
     },
     {
         "brasserie": "Terre de bières",
@@ -5378,7 +5708,8 @@
         "parCarton": 12,
         "nbreBouteilles": 0,
         "pu": 1.57,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "TERR-"
     },
     {
         "brasserie": "Terre de bières",
@@ -5388,7 +5719,8 @@
         "parCarton": 12,
         "nbreBouteilles": 0,
         "pu": 1.57,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "TERR-"
     },
     {
         "brasserie": "Terre de bières",
@@ -5398,7 +5730,8 @@
         "parCarton": 12,
         "nbreBouteilles": 0,
         "pu": 1.57,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "TERR-"
     },
     {
         "brasserie": "Terre de bières",
@@ -5408,7 +5741,8 @@
         "parCarton": 12,
         "nbreBouteilles": 0,
         "pu": 1.57,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "TERR-"
     },
     {
         "brasserie": "Terre de bières",
@@ -5418,7 +5752,8 @@
         "parCarton": 12,
         "nbreBouteilles": 0,
         "pu": 1.57,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "TERR-"
     },
     {
         "brasserie": "Terre de bières",
@@ -5428,7 +5763,8 @@
         "parCarton": 6,
         "nbreBouteilles": 0,
         "pu": 2.64,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "TERR-"
     },
     {
         "brasserie": "Terre de bières",
@@ -5438,7 +5774,8 @@
         "parCarton": 6,
         "nbreBouteilles": 0,
         "pu": 2.68,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "TERR-"
     },
     {
         "brasserie": "Terre de bières",
@@ -5448,7 +5785,8 @@
         "parCarton": 6,
         "nbreBouteilles": 0,
         "pu": 2.68,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "TERR-"
     },
     {
         "brasserie": "Terre de bières",
@@ -5458,7 +5796,8 @@
         "parCarton": 6,
         "nbreBouteilles": 0,
         "pu": 2.68,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "TERR-"
     },
     {
         "brasserie": "Terre de bières",
@@ -5468,7 +5807,8 @@
         "parCarton": 6,
         "nbreBouteilles": 0,
         "pu": 2.73,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "TERR-"
     },
     {
         "brasserie": "Terre de bières",
@@ -5478,7 +5818,8 @@
         "parCarton": 6,
         "nbreBouteilles": 0,
         "pu": 2.73,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "TERR-"
     },
     {
         "brasserie": "Terre de bières",
@@ -5488,7 +5829,8 @@
         "parCarton": 6,
         "nbreBouteilles": 0,
         "pu": 2.73,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "TERR-"
     },
     {
         "brasserie": "Terre de bières",
@@ -5498,7 +5840,8 @@
         "parCarton": 6,
         "nbreBouteilles": 0,
         "pu": 2.73,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "TERR-"
     },
     {
         "brasserie": "Terre de bières",
@@ -5508,12 +5851,14 @@
         "parCarton": 6,
         "nbreBouteilles": 0,
         "pu": 2.73,
-        "montantHt": 0
+        "montantHt": 0,
+        "codification": "TERR-"
     },
     {
         "brasserie": "Val d'Ainan",
         "type": "info",
         "nomDeLaBire": "info",
+        "codification": "VALA",
         "undefined": "10% de remise supplémentaire si commande de plus de 20 cartons / pas de livraison sur Lyon ? Règlement à 30 jours / escompte de 2% si comptant"
     },
     {
@@ -5521,66 +5866,79 @@
         "type": "Classique",
         "nomDeLaBire": "Blanche",
         "contenance": 33,
-        "nbreCartons": 1,
         "parCarton": 12,
-        "nbreBouteilles": 12,
+        "nbreBouteilles": 0,
         "pu": 1.36,
-        "montantHt": 16.32
+        "montantHt": 0,
+        "commandLe": "2016-06-13T22:00:00.000Z",
+        "recuLe": "2016-06-13T22:00:00.000Z",
+        "codification": "VALA-33-BLAN"
     },
     {
         "brasserie": "Val d'Ainan",
         "type": "Classique",
         "nomDeLaBire": "Blonde",
         "contenance": 33,
-        "nbreCartons": 1,
         "parCarton": 12,
-        "nbreBouteilles": 12,
+        "nbreBouteilles": 0,
         "pu": 1.36,
-        "montantHt": 16.32
+        "montantHt": 0,
+        "commandLe": "2016-06-13T22:00:00.000Z",
+        "recuLe": "2016-06-13T22:00:00.000Z",
+        "codification": "VALA-33-BLON"
     },
     {
         "brasserie": "Val d'Ainan",
         "type": "Classique",
-        "nomDeLaBire": "Dorée",
+        "nomDeLaBire": "Dorée (à l'absinthe)",
         "contenance": 33,
         "nbreCartons": 1,
         "parCarton": 12,
         "nbreBouteilles": 12,
         "pu": 1.36,
-        "montantHt": 16.32
+        "montantHt": 16.32,
+        "commandLe": "2016-06-13T22:00:00.000Z",
+        "recuLe": "2016-06-13T22:00:00.000Z",
+        "codification": "VALA-33-DORE"
     },
     {
         "brasserie": "Val d'Ainan",
         "type": "Classique",
         "nomDeLaBire": "Ambrée",
         "contenance": 33,
-        "nbreCartons": 1,
         "parCarton": 12,
-        "nbreBouteilles": 12,
+        "nbreBouteilles": 0,
         "pu": 1.36,
-        "montantHt": 16.32
+        "montantHt": 0,
+        "commandLe": "2016-06-13T22:00:00.000Z",
+        "recuLe": "2016-06-13T22:00:00.000Z",
+        "codification": "VALA-33-AMBR"
     },
     {
         "brasserie": "Val d'Ainan",
         "type": "Classique",
         "nomDeLaBire": "Brune",
         "contenance": 33,
-        "nbreCartons": 1,
         "parCarton": 12,
-        "nbreBouteilles": 12,
+        "nbreBouteilles": 0,
         "pu": 1.36,
-        "montantHt": 16.32
+        "montantHt": 0,
+        "commandLe": "2016-06-13T22:00:00.000Z",
+        "recuLe": "2016-06-13T22:00:00.000Z",
+        "codification": "VALA-33-BRUN"
     },
     {
         "brasserie": "Val d'Ainan",
         "type": "Classique",
         "nomDeLaBire": "Blanche",
         "contenance": 75,
-        "nbreCartons": 1,
         "parCarton": 6,
-        "nbreBouteilles": 6,
+        "nbreBouteilles": 0,
         "pu": 2.9600000000000004,
-        "montantHt": 17.76
+        "montantHt": 0,
+        "commandLe": "2016-06-13T22:00:00.000Z",
+        "recuLe": "2016-06-13T22:00:00.000Z",
+        "codification": "VALA-75-BLAN"
     },
     {
         "brasserie": "Val d'Ainan",
@@ -5590,17 +5948,24 @@
         "parCarton": 6,
         "nbreBouteilles": 0,
         "pu": 2.9600000000000004,
-        "montantHt": 0
+        "montantHt": 0,
+        "commandLe": "2016-06-13T22:00:00.000Z",
+        "recuLe": "2016-06-13T22:00:00.000Z",
+        "codification": "VALA-75-BLON"
     },
     {
         "brasserie": "Val d'Ainan",
         "type": "Classique",
-        "nomDeLaBire": "Dorée",
+        "nomDeLaBire": "Dorée (à l'absinthe)",
         "contenance": 75,
+        "nbreCartons": 1,
         "parCarton": 6,
-        "nbreBouteilles": 0,
+        "nbreBouteilles": 6,
         "pu": 2.9600000000000004,
-        "montantHt": 0
+        "montantHt": 17.76,
+        "commandLe": "2016-06-13T22:00:00.000Z",
+        "recuLe": "2016-06-13T22:00:00.000Z",
+        "codification": "VALA-75-DORE"
     },
     {
         "brasserie": "Val d'Ainan",
@@ -5610,7 +5975,10 @@
         "parCarton": 6,
         "nbreBouteilles": 0,
         "pu": 2.9600000000000004,
-        "montantHt": 0
+        "montantHt": 0,
+        "commandLe": "2016-06-13T22:00:00.000Z",
+        "recuLe": "2016-06-13T22:00:00.000Z",
+        "codification": "VALA-75-AMBR"
     },
     {
         "brasserie": "Val d'Ainan",
@@ -5620,7 +5988,10 @@
         "parCarton": 6,
         "nbreBouteilles": 0,
         "pu": 2.9600000000000004,
-        "montantHt": 0
+        "montantHt": 0,
+        "commandLe": "2016-06-13T22:00:00.000Z",
+        "recuLe": "2016-06-13T22:00:00.000Z",
+        "codification": "VALA-75-BRUN"
     },
     {
         "brasserie": "Val d'Ainan",
@@ -5631,18 +6002,23 @@
         "parCarton": 12,
         "nbreBouteilles": 12,
         "pu": 1.36,
-        "montantHt": 16.32
+        "montantHt": 16.32,
+        "commandLe": "2016-06-13T22:00:00.000Z",
+        "recuLe": "2016-06-13T22:00:00.000Z",
+        "codification": "VALA-33-CERV"
     },
     {
         "brasserie": "Val d'Ainan",
         "type": "Spécialité",
         "nomDeLaBire": "Dorée au chanvre",
         "contenance": 33,
-        "nbreCartons": 1,
         "parCarton": 12,
-        "nbreBouteilles": 12,
+        "nbreBouteilles": 0,
         "pu": 1.36,
-        "montantHt": 16.32
+        "montantHt": 0,
+        "commandLe": "2016-06-13T22:00:00.000Z",
+        "recuLe": "2016-06-13T22:00:00.000Z",
+        "codification": "VALA-33-CHAN"
     },
     {
         "brasserie": "Val d'Ainan",
@@ -5653,29 +6029,36 @@
         "parCarton": 12,
         "nbreBouteilles": 12,
         "pu": 1.36,
-        "montantHt": 16.32
+        "montantHt": 16.32,
+        "commandLe": "2016-06-13T22:00:00.000Z",
+        "recuLe": "2016-06-13T22:00:00.000Z",
+        "codification": "VALA-33-MIEL"
     },
     {
         "brasserie": "Val d'Ainan",
         "type": "Spécialité",
         "nomDeLaBire": "India Pale Ale",
         "contenance": 33,
-        "nbreCartons": 1,
         "parCarton": 12,
-        "nbreBouteilles": 12,
+        "nbreBouteilles": 0,
         "pu": 1.5999999999999999,
-        "montantHt": 19.2
+        "montantHt": 0,
+        "commandLe": "2016-06-13T22:00:00.000Z",
+        "recuLe": "2016-06-13T22:00:00.000Z",
+        "codification": "VALA-33-IPA"
     },
     {
         "brasserie": "Val d'Ainan",
         "type": "Spécialité",
         "nomDeLaBire": "Triple",
         "contenance": 33,
-        "nbreCartons": 1,
         "parCarton": 12,
-        "nbreBouteilles": 12,
+        "nbreBouteilles": 0,
         "pu": 1.5999999999999999,
-        "montantHt": 19.2
+        "montantHt": 0,
+        "commandLe": "2016-06-13T22:00:00.000Z",
+        "recuLe": "2016-06-13T22:00:00.000Z",
+        "codification": "VALA-33-TRIP"
     },
     {
         "brasserie": "Val d'Ainan",
@@ -5686,18 +6069,23 @@
         "parCarton": 6,
         "nbreBouteilles": 6,
         "pu": 2.9600000000000004,
-        "montantHt": 17.76
+        "montantHt": 17.76,
+        "commandLe": "2016-06-13T22:00:00.000Z",
+        "recuLe": "2016-06-13T22:00:00.000Z",
+        "codification": "VALA-75-CERV"
     },
     {
         "brasserie": "Val d'Ainan",
         "type": "Spécialité",
         "nomDeLaBire": "Dorée au chanvre",
         "contenance": 75,
-        "nbreCartons": 1,
         "parCarton": 6,
-        "nbreBouteilles": 6,
+        "nbreBouteilles": 0,
         "pu": 2.9600000000000004,
-        "montantHt": 17.76
+        "montantHt": 0,
+        "commandLe": "2016-06-13T22:00:00.000Z",
+        "recuLe": "2016-06-13T22:00:00.000Z",
+        "codification": "VALA-75-CHAN"
     },
     {
         "brasserie": "Val d'Ainan",
@@ -5708,160 +6096,230 @@
         "parCarton": 6,
         "nbreBouteilles": 6,
         "pu": 2.9600000000000004,
-        "montantHt": 17.76
+        "montantHt": 17.76,
+        "commandLe": "2016-06-13T22:00:00.000Z",
+        "recuLe": "2016-06-13T22:00:00.000Z",
+        "codification": "VALA-75-MIEL"
     },
     {
         "brasserie": "Val d'Ainan",
         "type": "Spécialité",
         "nomDeLaBire": "India Pale Ale",
         "contenance": 75,
-        "nbreCartons": 1,
         "parCarton": 6,
-        "nbreBouteilles": 6,
+        "nbreBouteilles": 0,
         "pu": 3.49,
-        "montantHt": 20.94
+        "montantHt": 0,
+        "commandLe": "2016-06-13T22:00:00.000Z",
+        "recuLe": "2016-06-13T22:00:00.000Z",
+        "codification": "VALA-75-IPA"
     },
     {
         "brasserie": "Val d'Ainan",
         "type": "Spécialité",
         "nomDeLaBire": "Triple",
         "contenance": 75,
-        "nbreCartons": 1,
         "parCarton": 6,
-        "nbreBouteilles": 6,
+        "nbreBouteilles": 0,
         "pu": 3.49,
-        "montantHt": 20.94
+        "montantHt": 0,
+        "commandLe": "2016-06-13T22:00:00.000Z",
+        "recuLe": "2016-06-13T22:00:00.000Z",
+        "codification": "VALA-75-TRIP"
     },
     {
         "brasserie": "Val d'Ainan",
         "type": "Saisonnière",
         "nomDeLaBire": "Blanche à la Menthe et au Thé vert (printemps-été)",
-        "contenance": 33,
-        "nbreCartons": 2,
-        "parCarton": 12,
-        "nbreBouteilles": 24,
-        "pu": 1.36,
-        "montantHt": 32.64
-    },
-    {
-        "brasserie": "Val d'Ainan",
-        "type": "Saisonnière",
-        "nomDeLaBire": "Blanche aux Fruits Rouges (printemps-été)",
-        "contenance": 33,
-        "nbreCartons": 2,
-        "parCarton": 12,
-        "nbreBouteilles": 24,
-        "pu": 1.36,
-        "montantHt": 32.64
-    },
-    {
-        "brasserie": "Val d'Ainan",
-        "type": "Saisonnière",
-        "nomDeLaBire": "Brune aromatisée à la Noix (automne-hiver)",
-        "contenance": 33,
-        "parCarton": 12,
-        "nbreBouteilles": 0,
-        "pu": 1.36,
-        "montantHt": 0
-    },
-    {
-        "brasserie": "Val d'Ainan",
-        "type": "Saisonnière",
-        "nomDeLaBire": "Ambrée aromatisée à la Châtaigne (automne-hiver)",
-        "contenance": 33,
-        "parCarton": 12,
-        "nbreBouteilles": 0,
-        "pu": 1.36,
-        "montantHt": 0
-    },
-    {
-        "brasserie": "Val d'Ainan",
-        "type": "Saisonnière",
-        "nomDeLaBire": "Bière de Noël",
-        "contenance": 33,
-        "parCarton": 12,
-        "nbreBouteilles": 0,
-        "pu": 1.36,
-        "montantHt": 0
-    },
-    {
-        "brasserie": "Val d'Ainan",
-        "type": "Saisonnière",
-        "nomDeLaBire": "Bière de Printemps",
         "contenance": 33,
         "nbreCartons": 1,
         "parCarton": 12,
         "nbreBouteilles": 12,
         "pu": 1.36,
-        "montantHt": 16.32
-    },
-    {
-        "brasserie": "Val d'Ainan",
-        "type": "Saisonnière",
-        "nomDeLaBire": "Blanche à la Menthe et au Thé vert (printemps-été)",
-        "contenance": 75,
-        "nbreCartons": 2,
-        "parCarton": 6,
-        "nbreBouteilles": 12,
-        "pu": 2.9600000000000004,
-        "montantHt": 35.52
+        "montantHt": 16.32,
+        "commandLe": "2016-06-13T22:00:00.000Z",
+        "recuLe": "2016-06-13T22:00:00.000Z",
+        "codification": "VALA-33-MENT"
     },
     {
         "brasserie": "Val d'Ainan",
         "type": "Saisonnière",
         "nomDeLaBire": "Blanche aux Fruits Rouges (printemps-été)",
-        "contenance": 75,
-        "nbreCartons": 2,
-        "parCarton": 6,
+        "contenance": 33,
+        "nbreCartons": 1,
+        "parCarton": 12,
         "nbreBouteilles": 12,
-        "pu": 2.9600000000000004,
-        "montantHt": 35.52
+        "pu": 1.36,
+        "montantHt": 16.32,
+        "commandLe": "2016-06-13T22:00:00.000Z",
+        "recuLe": "2016-06-13T22:00:00.000Z",
+        "codification": "VALA-33-FRUI"
     },
     {
         "brasserie": "Val d'Ainan",
         "type": "Saisonnière",
         "nomDeLaBire": "Brune aromatisée à la Noix (automne-hiver)",
-        "contenance": 75,
-        "parCarton": 6,
+        "contenance": 33,
+        "parCarton": 12,
         "nbreBouteilles": 0,
-        "pu": 2.9600000000000004,
-        "montantHt": 0
+        "pu": 1.36,
+        "montantHt": 0,
+        "commandLe": "2016-06-13T22:00:00.000Z",
+        "recuLe": "2016-06-13T22:00:00.000Z",
+        "codification": "VALA-33-NOIX"
     },
     {
         "brasserie": "Val d'Ainan",
         "type": "Saisonnière",
         "nomDeLaBire": "Ambrée aromatisée à la Châtaigne (automne-hiver)",
-        "contenance": 75,
-        "parCarton": 6,
+        "contenance": 33,
+        "parCarton": 12,
         "nbreBouteilles": 0,
-        "pu": 2.9600000000000004,
-        "montantHt": 0
+        "pu": 1.36,
+        "montantHt": 0,
+        "commandLe": "2016-06-13T22:00:00.000Z",
+        "recuLe": "2016-06-13T22:00:00.000Z",
+        "codification": "VALA-33-CHAT"
     },
     {
         "brasserie": "Val d'Ainan",
         "type": "Saisonnière",
         "nomDeLaBire": "Bière de Noël",
-        "contenance": 75,
-        "parCarton": 6,
+        "contenance": 33,
+        "parCarton": 12,
         "nbreBouteilles": 0,
-        "pu": 2.9600000000000004,
-        "montantHt": 0
+        "pu": 1.36,
+        "montantHt": 0,
+        "commandLe": "2016-06-13T22:00:00.000Z",
+        "recuLe": "2016-06-13T22:00:00.000Z",
+        "codification": "VALA-33-NOEL"
     },
     {
         "brasserie": "Val d'Ainan",
         "type": "Saisonnière",
         "nomDeLaBire": "Bière de Printemps",
+        "contenance": 33,
+        "parCarton": 12,
+        "nbreBouteilles": 0,
+        "pu": 1.36,
+        "montantHt": 0,
+        "commandLe": "2016-06-13T22:00:00.000Z",
+        "recuLe": "2016-06-13T22:00:00.000Z",
+        "codification": "VALA-33-PRIN"
+    },
+    {
+        "brasserie": "Val d'Ainan",
+        "type": "Saisonnière",
+        "nomDeLaBire": "Blanche à la Menthe et au Thé vert (printemps-été)",
         "contenance": 75,
         "nbreCartons": 1,
         "parCarton": 6,
         "nbreBouteilles": 6,
         "pu": 2.9600000000000004,
-        "montantHt": 17.76
+        "montantHt": 17.76,
+        "commandLe": "2016-06-13T22:00:00.000Z",
+        "recuLe": "2016-06-13T22:00:00.000Z",
+        "codification": "VALA-75-MENT"
+    },
+    {
+        "brasserie": "Val d'Ainan",
+        "type": "Saisonnière",
+        "nomDeLaBire": "Blanche aux Fruits Rouges (printemps-été)",
+        "contenance": 75,
+        "nbreCartons": 1,
+        "parCarton": 6,
+        "nbreBouteilles": 6,
+        "pu": 2.9600000000000004,
+        "montantHt": 17.76,
+        "commandLe": "2016-06-13T22:00:00.000Z",
+        "recuLe": "2016-06-13T22:00:00.000Z",
+        "codification": "VALA-75-FRUI"
+    },
+    {
+        "brasserie": "Val d'Ainan",
+        "type": "Saisonnière",
+        "nomDeLaBire": "Brune aromatisée à la Noix (automne-hiver)",
+        "contenance": 75,
+        "parCarton": 6,
+        "nbreBouteilles": 0,
+        "pu": 2.9600000000000004,
+        "montantHt": 0,
+        "commandLe": "2016-06-13T22:00:00.000Z",
+        "recuLe": "2016-06-13T22:00:00.000Z",
+        "codification": "VALA-75-NOIX"
+    },
+    {
+        "brasserie": "Val d'Ainan",
+        "type": "Saisonnière",
+        "nomDeLaBire": "Ambrée aromatisée à la Châtaigne (automne-hiver)",
+        "contenance": 75,
+        "parCarton": 6,
+        "nbreBouteilles": 0,
+        "pu": 2.9600000000000004,
+        "montantHt": 0,
+        "commandLe": "2016-06-13T22:00:00.000Z",
+        "recuLe": "2016-06-13T22:00:00.000Z",
+        "codification": "VALA-75-CHAT"
+    },
+    {
+        "brasserie": "Val d'Ainan",
+        "type": "Saisonnière",
+        "nomDeLaBire": "Bière de Noël",
+        "contenance": 75,
+        "parCarton": 6,
+        "nbreBouteilles": 0,
+        "pu": 2.9600000000000004,
+        "montantHt": 0,
+        "commandLe": "2016-06-13T22:00:00.000Z",
+        "recuLe": "2016-06-13T22:00:00.000Z",
+        "codification": "VALA-75-NOEL"
+    },
+    {
+        "brasserie": "Val d'Ainan",
+        "type": "Saisonnière",
+        "nomDeLaBire": "Bière de Printemps",
+        "contenance": 75,
+        "parCarton": 6,
+        "nbreBouteilles": 0,
+        "pu": 2.9600000000000004,
+        "montantHt": 0,
+        "commandLe": "2016-06-13T22:00:00.000Z",
+        "recuLe": "2016-06-13T22:00:00.000Z",
+        "codification": "VALA-75-PRIN"
+    },
+    {
+        "brasserie": "Val d'Ainan",
+        "type": "Cruchon",
+        "nomDeLaBire": "Blonde",
+        "contenance": 200,
+        "nbreCartons": 1,
+        "parCarton": 2,
+        "nbreBouteilles": 2,
+        "pu": 12.18,
+        "montantHt": 24.36,
+        "commandLe": "2016-06-13T22:00:00.000Z",
+        "recuLe": "2016-06-13T22:00:00.000Z",
+        "codification": "VALA-2L-BLON"
+    },
+    {
+        "brasserie": "Val d'Ainan",
+        "type": "Cruchon",
+        "nomDeLaBire": "Kaki (plusieurs épices)",
+        "contenance": 200,
+        "nbreCartons": 1,
+        "parCarton": 2,
+        "nbreBouteilles": 2,
+        "pu": 14.61,
+        "montantHt": 29.22,
+        "commandLe": "2016-06-13T22:00:00.000Z",
+        "recuLe": "2016-06-13T22:00:00.000Z",
+        "codification": "VALA-2L-KAKI"
     },
     {
         "brasserie": "Veyrat",
         "type": "info",
         "nomDeLaBire": "info",
+        "codification": "VEYR",
         "undefined": "pas de livraison, règlement 30 jours, tarifs dégressifs"
     },
     {
@@ -5875,7 +6333,7 @@
         "pu": 1.8,
         "montantHt": 43.2,
         "commandLe": "2016-06-05T22:00:00.000Z",
-        "achetLe": "2016-06-05T22:00:00.000Z",
+        "recuLe": "2016-06-05T22:00:00.000Z",
         "codification": "VEYR-33-BLAN"
     },
     {
@@ -5889,7 +6347,7 @@
         "pu": 1.8,
         "montantHt": 43.2,
         "commandLe": "2016-06-05T22:00:00.000Z",
-        "achetLe": "2016-06-05T22:00:00.000Z",
+        "recuLe": "2016-06-05T22:00:00.000Z",
         "codification": "VEYR-33-BON"
     },
     {
@@ -5914,7 +6372,7 @@
         "pu": 1.8,
         "montantHt": 43.2,
         "commandLe": "2016-06-05T22:00:00.000Z",
-        "achetLe": "2016-06-05T22:00:00.000Z",
+        "recuLe": "2016-06-05T22:00:00.000Z",
         "codification": "VEYR-33-ROUS"
     },
     {
@@ -5950,7 +6408,7 @@
         "pu": 1.8,
         "montantHt": 43.2,
         "commandLe": "2016-06-05T22:00:00.000Z",
-        "achetLe": "2016-06-05T22:00:00.000Z",
+        "recuLe": "2016-06-05T22:00:00.000Z",
         "codification": "VEYR-33-TOUR"
     },
     {
@@ -6044,7 +6502,8 @@
     {
         "brasserie": "Vezelay",
         "type": "info",
-        "nomDeLaBire": "info"
+        "nomDeLaBire": "info",
+        "codification": "VEZE"
     },
     {
         "brasserie": "Vezelay",
@@ -6120,7 +6579,6 @@
         "nbreBouteilles": 0,
         "pu": 2.991,
         "montantHt": 0,
-        "commandLe": "2016-06-03T22:00:00.000Z",
         "codification": "VEZE-50-NOEL"
     },
     {
@@ -6368,7 +6826,7 @@
         "contenance": 500,
         "nbreBouteilles": 0,
         "montantHt": 0,
-        "codification": "VEZE-5L-????"
+        "codification": "VEZE-5L-FUT"
     },
     {
         "nbreBouteilles": 0,
@@ -6400,9 +6858,9 @@
         "montantHt": "montant HT"
     },
     {
-        "nbreCartons": 332,
-        "nbreBouteilles": 2981,
-        "montantHt": 6367.839099999997
+        "nbreCartons": 322,
+        "nbreBouteilles": 2840,
+        "montantHt": 6016.279100000002
     },
     {
         "nomDeLaBire": "général",
@@ -6413,50 +6871,50 @@
     },
     {
         "contenance": 33,
-        "nbreCartons": 148,
-        "nbreBouteilles": 1932,
-        "montantHt": 2934.8759999999993,
-        "undefined": 1.5356007843137272
+        "nbreCartons": 135,
+        "nbreBouteilles": 1886,
+        "montantHt": 2901.8959999999993,
+        "undefined": 1.5652430769230783
     },
     {
         "contenance": 50,
         "nbreCartons": 17,
         "nbreBouteilles": 204,
-        "montantHt": 535.2045,
-        "undefined": 2.5941534090909095
+        "montantHt": 536.6445000000001,
+        "undefined": 2.599607954545455
     },
     {
         "contenance": 75,
-        "nbreCartons": 111,
-        "nbreBouteilles": 681,
-        "montantHt": 2117.3399999999992,
-        "undefined": 3.1664502074688783
+        "nbreCartons": 107,
+        "nbreBouteilles": 679,
+        "montantHt": 2098.969999999999,
+        "undefined": 3.15983469387755
     },
     {
         "contenance": "Coffret",
-        "nbreCartons": 53,
-        "nbreBouteilles": 63,
-        "montantHt": 270.9946
+        "nbreCartons": 57,
+        "nbreBouteilles": 67,
+        "montantHt": 306.9946
     },
     {
         "contenance": "TOTAL",
-        "nbreCartons": 329,
-        "nbreBouteilles": 2880,
-        "montantHt": 5858.415099999998
+        "nbreCartons": 316,
+        "nbreBouteilles": 2836,
+        "montantHt": 5844.5050999999985
     },
     {
-        "undefined": 7.599480497925308
+        "undefined": 7.58360326530612
     },
     {
         "type": "non saisies",
         "nomDeLaBire": "La choulette",
         "contenance": "voir doc",
-        "undefined": 22.798441493775925
+        "undefined": 22.75080979591836
     },
     {
         "nomDeLaBire": "Brasserie des Cimes",
         "contenance": "pas de prix",
-        "undefined": 22.11265129411767
+        "undefined": 22.539500307692325
     },
     {
         "nomDeLaBire": "Interdrinks",
